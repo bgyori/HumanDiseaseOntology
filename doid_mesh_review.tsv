@@ -1,0 +1,975 @@
+source prefix	source identifier	source name	relation	target prefix	target identifier	target name	type	source
+doid	DOID:0050256	angiostrongyliasis	skos:exactMatch	mesh	C536369	Angiostrongyliasis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050544	hypermethioninemia	skos:exactMatch	mesh	C564683	Hypermethioninemia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050561	Lennox-Gastaut syndrome	skos:exactMatch	mesh	D065768	Lennox Gastaut Syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050573	2-hydroxyglutaric aciduria	skos:exactMatch	mesh	C535306	2-Hydroxyglutaricaciduria	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050576	Senior-Loken syndrome	skos:exactMatch	mesh	C537580	Senior Loken Syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050577	cranioectodermal dysplasia	skos:exactMatch	mesh	C562966	Cranioectodermal Dysplasia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050585	congenital generalized lipodystrophy	skos:exactMatch	mesh	D052497	Lipodystrophy, Congenital Generalized	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050634	alopecia universalis	skos:exactMatch	mesh	C537055	Alopecia universalis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050678	Blau syndrome	skos:exactMatch	mesh	C538157	Blau syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050679	blue cone monochromacy	skos:exactMatch	mesh	C536238	Blue cone monochromatism	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0050696	fetal alcohol spectrum disorder	skos:exactMatch	mesh	D063647	Fetal Alcohol Spectrum Disorders	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0060046	aphasia	skos:exactMatch	mesh	D001037	Aphasia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0060602	alpha-methylacyl-CoA racemase deficiency	skos:exactMatch	mesh	C565768	Alpha-Methylacyl-CoA Racemase Deficiency	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0060604	ankyloglossia	skos:exactMatch	mesh	D000072676	Ankyloglossia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0060668	anencephaly	skos:exactMatch	mesh	D000757	Anencephaly	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0060743	methylmalonic acidemia cblB type	skos:exactMatch	mesh	C537361	Methylmalonic aciduria cblB type	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0060887	ossification of the posterior longitudinal ligament of spine	skos:exactMatch	mesh	C537143	Ossification of the posterior longitudinal ligament of the spine	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0070296	primary autosomal recessive microcephaly	skos:exactMatch	mesh	C579935	Autosomal Recessive Primary Microcephaly	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0070306	post-cardiac arrest syndrome	skos:exactMatch	mesh	D000080942	Post-Cardiac Arrest Syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080043	achondrogenesis	skos:exactMatch	mesh	C579878	Achondrogenesis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080056	achondrogenesis type II	skos:exactMatch	mesh	C536017	Achondrogenesis type 2	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080143	congenital fibrosis of the extraocular muscles	skos:exactMatch	mesh	C580012	Congenital Fibrosis of the Extraocular Muscles	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080234	Clark-Baraitser syndrome	skos:exactMatch	mesh	C536208	Clark-Baraitser syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080324	tuberous sclerosis 1	skos:exactMatch	mesh	C565346	Tuberous Sclerosis 1	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080325	tuberous sclerosis 2	skos:exactMatch	mesh	C566021	Tuberous Sclerosis 2	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080332	bicuspid aortic valve disease	skos:exactMatch	mesh	D000082882	Bicuspid Aortic Valve Disease	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080344	blepharocheilodontic syndrome	skos:exactMatch	mesh	C536188	Blepharo-cheilo-dontic syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080395	orofacial cleft 1	skos:exactMatch	mesh	C566121	Orofacial Cleft 1	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080533	Carney-Stratakis syndrome	skos:exactMatch	mesh	C564650	Carney-Stratakis Syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080576	spondyloepimetaphyseal dysplasia, Genevieve-type	skos:exactMatch	mesh	C535785	Spondyloepimetaphyseal dysplasia, Genevieve type	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080678	mucolipidosis III gamma	skos:exactMatch	mesh	C565367	Mucolipidosis III Gamma	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080695	Burn-McKeown syndrome	skos:exactMatch	mesh	C537411	Burn-Mckeown syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080696	Winchester syndrome	skos:exactMatch	mesh	C536709	Winchester syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080699	glutathione synthetase deficiency	skos:exactMatch	mesh	C536835	Glutathione synthetase deficiency	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080711	multisystem inflammatory syndrome in children	skos:exactMatch	mesh	C000705967	pediatric multisystem inflammatory disease, COVID-19 related	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080725	BASAN syndrome	skos:exactMatch	mesh	C537659	Basan syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080741	limbic encephalitis	skos:exactMatch	mesh	D020363	Limbic Encephalitis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080743	transverse myelitis	skos:exactMatch	mesh	D009188	Myelitis, Transverse	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080744	antisynthetase syndrome	skos:exactMatch	mesh	C537778	Antisynthetase syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080745	polymyositis	skos:exactMatch	mesh	D017285	Polymyositis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080746	Sweet syndrome	skos:exactMatch	mesh	D016463	Sweet Syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080747	chronic urticaria	skos:exactMatch	mesh	D000080223	Chronic Urticaria	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080750	erythema nodosum	skos:exactMatch	mesh	D004893	Erythema Nodosum	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080768	pyridoxine-dependent epilepsy	skos:exactMatch	mesh	C536254	Pyridoxine-dependent epilepsy	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080779	plasmablastic lymphoma	skos:exactMatch	mesh	D000069293	Plasmablastic Lymphoma	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080795	acute basophilic leukemia	skos:exactMatch	mesh	D015471	Leukemia, Basophilic, Acute	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080808	mammary analogue secretory carcinoma	skos:exactMatch	mesh	D000069295	Mammary Analogue Secretory Carcinoma	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080820	occupational asthma	skos:exactMatch	mesh	D059366	Asthma, Occupational	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080833	laryngomalacia	skos:exactMatch	mesh	D055092	Laryngomalacia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080848	long COVID	skos:exactMatch	mesh	C000711409	post-acute COVID-19 syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080912	cerebrooculofacioskeletal syndrome 2	skos:exactMatch	mesh	C565185	Cerebrooculofacioskeletal Syndrome 2	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080913	cerebrooculofacioskeletal syndrome 3	skos:exactMatch	mesh	C565035	Cerebrooculofacioskeletal Syndrome 3	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080914	cerebrooculofacioskeletal syndrome 4	skos:exactMatch	mesh	C565184	Cerebrooculofacioskeletal Syndrome 4	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080918	polymicrogyria	skos:exactMatch	mesh	D065706	Polymicrogyria	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080933	immunoglobulin light chain amyloidosis	skos:exactMatch	mesh	D000075363	Immunoglobulin Light-chain Amyloidosis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080940	hereditary angioedema type III	skos:exactMatch	mesh	D056828	Hereditary Angioedema Type III	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080941	acquired angioedema	skos:exactMatch	mesh	C538173	Acquired angioedema	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080942	anauxetic dysplasia	skos:exactMatch	mesh	C538256	Anauxetic dysplasia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080947	acute flaccid myelitis	skos:exactMatch	mesh	C000629404	acute flaccid myelitis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0080990	King Denborough syndrome	skos:exactMatch	mesh	C536883	King Denborough syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081021	Tukel syndrome	skos:exactMatch	mesh	C536925	Tukel syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081022	retinal cone dystrophy 3B	skos:exactMatch	mesh	C563678	Retinal Cone Dystrophy 3B	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081023	retinal cone dystrophy 4	skos:exactMatch	mesh	C566470	Retinal Cone Dystrophy 4	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081024	retinal cone dystrophy 1	skos:exactMatch	mesh	C566719	Retinal Cone Dystrophy 1	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081025	retinal cone dystrophy 3A	skos:exactMatch	mesh	C566483	Retinal Cone Dystrophy 3A	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081041	B-cell prolymphocytic leukemia	skos:exactMatch	mesh	D054403	Leukemia, Prolymphocytic, B-Cell	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081042	T-cell prolymphocytic leukemia	skos:exactMatch	mesh	D015461	Leukemia, Prolymphocytic, T-Cell	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081044	frontonasal dysplasia	skos:exactMatch	mesh	C538065	Frontonasal dysplasia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081057	gestational diabetes insipidus	skos:exactMatch	mesh	C548014	Gestational Diabetes Insipidus	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081058	dipsogenic diabetes insipidus	skos:exactMatch	mesh	C548013	Dipsogenic Diabetes Insipidus	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0081082	acute myelomonocytic leukemia	skos:exactMatch	mesh	D015479	Leukemia, Myelomonocytic, Acute	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0090048	dystonia 16	skos:exactMatch	mesh	C567430	Dystonia 16	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0090056	dystonia 12	skos:exactMatch	mesh	C538001	Dystonia 12	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0090130	cortical dysplasia-focal epilepsy syndrome	skos:exactMatch	mesh	C567657	Cortical Dysplasia-Focal Epilepsy Syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0110007	achromatopsia 2	skos:exactMatch	mesh	C536128	Achromatopsia 2	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0110653	long QT syndrome 12	skos:exactMatch	mesh	C567842	Long Qt Syndrome 12	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0110872	holoprosencephaly 2	skos:exactMatch	mesh	C563579	Holoprosencephaly 2	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0110878	holoprosencephaly 5	skos:exactMatch	mesh	C566464	Holoprosencephaly 5	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0110880	holoprosencephaly 4	skos:exactMatch	mesh	C564180	Holoprosencephaly 4	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0110928	nemaline myopathy 2	skos:exactMatch	mesh	C538349	Nemaline Myopathy 2	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0111162	epidermal nevus	skos:exactMatch	mesh	C580062	Epidermal Nevus	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0111165	molybdenum cofactor deficiency	skos:exactMatch	mesh	C535811	Molybdenum cofactor deficiency	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0111167	Dyggve-Melchior-Clausen disease	skos:exactMatch	mesh	C535726	Dyggve-Melchior-Clausen syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0111218	Friedreich ataxia 1	skos:exactMatch	mesh	C565561	Friedreich Ataxia 1	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0111771	46,XY sex reversal 4	skos:exactMatch	mesh	C567887	46,XY Sex Reversal 4	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0111820	zygodactyly 1	skos:exactMatch	mesh	C565223	Zygodactyly 1	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112148	Uruguay faciocardiomusculoskeletal syndrome	skos:exactMatch	mesh	C564544	Uruguay Faciocardiomusculoskeletal Syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112184	thyroid dyshormonogenesis 5	skos:exactMatch	mesh	C562771	Thyroid Dyshormonogenesis 5	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112185	thyroid dyshormonogenesis 1	skos:exactMatch	mesh	C564766	Thyroid Dyshormonogenesis 1	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112186	thyroid dyshormonogenesis 2A	skos:exactMatch	mesh	C563206	Thyroid Dyshormonogenesis 2A	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112187	thyroid dyshormonogenesis 3	skos:exactMatch	mesh	C562769	Thyroid Dyshormonogenesis 3	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112188	thyroid dyshormonogenesis 4	skos:exactMatch	mesh	C562770	Thyroid Dyshormonogenesis 4	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112189	thyroid dyshormonogenesis 6	skos:exactMatch	mesh	C564608	Thyroid Dyshormonogenesis 6	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112194	Filippi syndrome	skos:exactMatch	mesh	C538152	Filippi syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112232	lissencephaly 3	skos:exactMatch	mesh	C566908	Lissencephaly 3	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112244	alopecia, neurologic defects, and endocrinopathy syndrome	skos:exactMatch	mesh	C567425	Alopecia, Neurologic Defects, and Endocrinopathy Syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112257	hydroxykynureninuria	skos:exactMatch	mesh	C536081	Hydroxykynureninuria	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112258	N-acetylglutamate synthase deficiency	skos:exactMatch	mesh	C536109	N-acetyl glutamate synthetase deficiency	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112259	Leydig cell hypoplasia	skos:exactMatch	mesh	C562567	Leydig Cell Hypoplasia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112286	spondyloepiphyseal dysplasia with punctate corneal dystrophy	skos:exactMatch	mesh	C566660	Spondyloepiphyseal Dysplasia With Punctate Corneal Dystrophy	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112289	spondyloepiphyseal dysplasia tarda with characteristic facies	skos:exactMatch	mesh	C564003	Spondyloepiphyseal Dysplasia Tarda with Characteristic Facies	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112322	pontocerebellar hypoplasia type 1	skos:exactMatch	mesh	C548069	Pontocerebellar Hypoplasia Type 1	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:0112328	pontocerebellar hypoplasia type 2	skos:exactMatch	mesh	C548070	Pontocerebellar Hypoplasia Type 2	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:1019	osteomyelitis	skos:exactMatch	mesh	D010019	Osteomyelitis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:10573	osteomalacia	skos:exactMatch	mesh	D010018	Osteomalacia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:1059	intellectual disability	skos:exactMatch	mesh	D008607	Intellectual Disability	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:11263	chlamydia	skos:exactMatch	mesh	D002689	Chlamydia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:11917	tinea cruris	skos:exactMatch	mesh	D000084002	Tinea cruris	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:12140	Chagas disease	skos:exactMatch	mesh	D014355	Chagas Disease	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:12351	alcoholic hepatitis	skos:exactMatch	mesh	D006519	Hepatitis, Alcoholic	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:1307	dementia	skos:exactMatch	mesh	D003704	Dementia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:1395	schistosomiasis	skos:exactMatch	mesh	D012552	Schistosomiasis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:1432	blindness	skos:exactMatch	mesh	D001766	Blindness	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:14749	methylmalonic acidemia	skos:exactMatch	mesh	C537358	Methylmalonic acidemia	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:1555	urticaria	skos:exactMatch	mesh	D014581	Urticaria	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:1575	rheumatic disease	skos:exactMatch	mesh	D012216	Rheumatic Diseases	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:1829	urethral stricture	skos:exactMatch	mesh	D014525	Urethral Stricture	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:2176	carbuncle	skos:exactMatch	mesh	D002270	Carbuncle	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:5199	ureteral obstruction	skos:exactMatch	mesh	D014517	Ureteral Obstruction	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:6590	spondylitis	skos:exactMatch	mesh	D013166	Spondylitis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:7880	luteoma	skos:exactMatch	mesh	D018311	Luteoma	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:8283	peritonitis	skos:exactMatch	mesh	D010538	Peritonitis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:83	cataract	skos:exactMatch	mesh	D002386	Cataract	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:8398	osteoarthritis	skos:exactMatch	mesh	D010003	Osteoarthritis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:8485	mucormycosis	skos:exactMatch	mesh	D009091	Mucormycosis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:8850	salivary gland cancer	skos:exactMatch	mesh	D012468	Salivary Gland Neoplasms	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:9335	scotoma	skos:exactMatch	mesh	D012607	Scotoma	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:9383	iridocyclitis	skos:exactMatch	mesh	D015863	Iridocyclitis	manually_reviewed	orcid:0000-0001-9439-5346
+doid	DOID:9675	pulmonary emphysema	skos:exactMatch	mesh	D011656	Pulmonary Emphysema	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C000598645	Spheroid body myopathy	skos:exactMatch	doid	DOID:0080091	spheroid body myopathy	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C000626124	NGLY1 deficiency	skos:exactMatch	doid	DOID:0060728	NGLY1-deficiency	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C000656784	adiaspiromycosis	skos:exactMatch	doid	DOID:0050072	adiaspiromycosis	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C000656825	tinea barbae	skos:exactMatch	doid	DOID:0050096	tinea barbae	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C000656865	talaromycosis	skos:exactMatch	doid	DOID:0050288	penicilliosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C531617	Amyotrophic lateral sclerosis 1	skos:exactMatch	doid	DOID:0060193	amyotrophic lateral sclerosis type 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535274	Prieto X-linked mental retardation syndrome	skos:exactMatch	doid	DOID:0060805	Prieto syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535302	Charcot-Marie-Tooth disease, X-linked recessive, 2	skos:exactMatch	doid	DOID:0110208	Charcot-Marie-Tooth disease X-linked recessive 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535303	Charcot-Marie-Tooth disease, X-linked recessive, 3	skos:exactMatch	doid	DOID:0110211	Charcot-Marie-Tooth disease X-linked recessive 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535308	3-methylcrotonyl CoA carboxylase 1 deficiency	skos:exactMatch	doid	DOID:0050710	3-Methylcrotonyl-CoA carboxylase deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535309	3-methylcrotonyl CoA carboxylase 2 deficiency	skos:exactMatch	doid	DOID:0080580	3-Methylcrotonyl-CoA carboxylase 2 deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535311	Costeff optic atrophy syndrome	skos:exactMatch	doid	DOID:0110004	3-methylglutaconic aciduria type 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535323	Chromosome 5q Deletion Syndrome	skos:exactMatch	doid	DOID:0090016	chromosome 5q deletion syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535334	ABCD syndrome	skos:exactMatch	doid	DOID:0050600	ABCD syndrome	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C535347	Catel Manzke syndrome	skos:exactMatch	doid	DOID:0081122	Catel Manzke syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C535377	Epidermolysis bullosa with pyloric atresia	skos:exactMatch	doid	DOID:0060733	junctional epidermolysis bullosa with pyloric atresia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535387	Arthropathy, progressive pseudorheumatoid, of childhood	skos:exactMatch	doid	DOID:0090004	progressive pseudorheumatoid arthropathy of childhood	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535397	Athabaskan brainstem dysgenesis	skos:exactMatch	doid	DOID:0050682	Athabaskan brainstem dysgenesis syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535416	Charcot-Marie-Tooth disease, Type 2I	skos:exactMatch	doid	DOID:0110158	Charcot-Marie-Tooth disease type 2I	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C535419	Charcot-Marie-Tooth disease, Type 4A	skos:exactMatch	doid	DOID:0110185	Charcot-Marie-Tooth disease type 4A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535420	Charcot-Marie-Tooth disease, Type 4B1	skos:exactMatch	doid	DOID:0110191	Charcot-Marie-Tooth disease type 4B1	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C535421	Charcot-Marie-Tooth disease, Type 4B2	skos:exactMatch	doid	DOID:0110190	Charcot-Marie-Tooth disease type 4B2	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C535436	Bethlem myopathy	skos:exactMatch	doid	DOID:0050663	Bethlem myopathy	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C535440	Bietti Crystalline Dystrophy	skos:exactMatch	doid	DOID:0050664	Bietti crystalline corneoretinal dystrophy	manually_reviewed	orcid:0000-0003-4423-4370
+mesh	C535499	Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp	skos:exactMatch	doid	DOID:0111645	Rolandic epilepsy-paroxysmal exercise-induced dystonia-writer's cramp syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535503	Epiphyseal dysplasia, multiple, 3	skos:exactMatch	doid	DOID:0070304	multiple epiphyseal dysplasia 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535506	Episodic Ataxia, Type 2	skos:exactMatch	doid	DOID:0050990	episodic ataxia type 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535520	Renal cysts and diabetes syndrome	skos:exactMatch	doid	DOID:0111101	maturity-onset diabetes of the young type 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535554	Abdominal obesity metabolic syndrome	skos:exactMatch	doid	DOID:0060611	abdominal obesity-metabolic syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535579	Cardiofaciocutaneous syndrome	skos:exactMatch	doid	DOID:0060233	cardiofaciocutaneous syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C535581	Cardiomyopathy dilated with Woolly hair and keratoderma	skos:exactMatch	doid	DOID:0090128	Carvajal syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535588	Carnitine palmitoyl transferase 1A deficiency	skos:exactMatch	doid	DOID:0090129	carnitine palmitoyltransferase I deficiency	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C535601	Dosage-sensitive sex reversal	skos:exactMatch	doid	DOID:0111777	46,XY sex reversal 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535607	Aicardi-Goutieres syndrome	skos:exactMatch	doid	DOID:0050629	Aicardi-Goutieres syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535627	Hand foot uterus syndrome	skos:exactMatch	doid	DOID:0060739	hand-foot-genital syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535642	Growth retardation, Alopecia, Pseudoanodontia and Optic atrophy	skos:exactMatch	doid	DOID:0112249	GAPO syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C535680	Rieger syndrome 2	skos:exactMatch	doid	DOID:0110121	Axenfeld-Rieger syndrome type 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535716	Neuropathy, hereditary motor and sensory, LOM type	skos:exactMatch	doid	DOID:0110186	Charcot-Marie-Tooth disease type 4D	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535734	Muscular dystrophy, tardive Emery-Dreifuss type, with contractures	skos:exactMatch	doid	DOID:0070246	X-linked Emery-Dreifuss muscular dystrophy 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535747	Congenital disorder of glycosylation type II	skos:exactMatch	doid	DOID:0050571	congenital disorder of glycosylation type II	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535780	Spondylocarpotarsal synostosis	skos:exactMatch	doid	DOID:0090116	spondylocarpotarsal synostosis syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535786	Spondyloepimetaphyseal dysplasia, sponastrime type	skos:exactMatch	doid	DOID:5684	spondyloepimetaphyseal dysplasia, Sponastrime type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535788	Spondyloepiphyseal dysplasia, congenita	skos:exactMatch	doid	DOID:14789	spondyloepiphyseal dysplasia congenita	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535789	Spondyloepiphyseal dysplasia, Omani type	skos:exactMatch	doid	DOID:0050813	spondyloepiphyseal dysplasia with congenital joint dislocations	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535813	Neuropathy, hereditary motor and sensory, Russe type	skos:exactMatch	doid	DOID:0110196	Charcot-Marie-Tooth disease type 4G	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535814	Neurosarcoidosis	skos:exactMatch	doid	DOID:13403	neurosarcoidosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535895	Limb-girdle muscular dystrophy type 2A	skos:exactMatch	doid	DOID:0110275	autosomal recessive limb-girdle muscular dystrophy type 2A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535897	Limb-girdle muscular dystrophy type 2H	skos:exactMatch	doid	DOID:0110282	autosomal recessive limb-girdle muscular dystrophy type 2H	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535899	Limb-girdle muscular dystrophy, type 2B	skos:exactMatch	doid	DOID:0110276	autosomal recessive limb-girdle muscular dystrophy type 2B	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535900	Limb-girdle muscular dystrophy, type 2C	skos:exactMatch	doid	DOID:0110277	autosomal recessive limb-girdle muscular dystrophy type 2C	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535904	Lipase deficiency combined	skos:exactMatch	doid	DOID:0111422	familial lipase maturation factor 1 deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535955	Epidermolysa bullosa simplex and limb girdle muscular dystrophy	skos:exactMatch	doid	DOID:0090017	epidermolysis bullosa simplex with muscular dystrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C535984	Congenital bilateral aplasia of vas deferens	skos:exactMatch	doid	DOID:0111862	congenital bilateral absence of vas deferens	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C536008	Achalasia Addisonianism Alacrimia syndrome	skos:exactMatch	doid	DOID:0050602	triple-A syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C536014	Acheiropodia	skos:exactMatch	doid	DOID:0050603	acheiropody	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536024	Marsden syndrome	skos:exactMatch	doid	DOID:0111755	Leber hereditary optic neuropathy and dystonia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536038	Medium chain acyl CoA dehydrogenase deficiency	skos:exactMatch	doid	DOID:0080153	medium chain acyl-CoA dehydrogenase deficiency	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C536042	Osteogenesis imperfecta, type 2A	skos:exactMatch	doid	DOID:0110341	osteogenesis imperfecta type 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536096	Myoclonic dystonia	skos:exactMatch	doid	DOID:0090033	myoclonic dystonia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536102	Myopathy, congenital nonprogressive with Moebius and Robin sequences	skos:exactMatch	doid	DOID:0080194	Carey-Fineman-Ziter syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536108	N syndrome	skos:exactMatch	doid	DOID:0050769	N syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536129	Achromatopsia 3	skos:exactMatch	doid	DOID:0110008	achromatopsia 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536131	Meckel syndrome type 2	skos:exactMatch	doid	DOID:0070116	Meckel syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536132	Meckel syndrome type 3	skos:exactMatch	doid	DOID:0070117	Meckel syndrome 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536162	Keratosis palmoplantaris striata 1	skos:exactMatch	doid	DOID:0081108	keratosis palmoplantaris striata 1	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C536166	Keshan disease	skos:exactMatch	doid	DOID:0050083	Keshan disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536169	Diaphyseal medullary stenosis with malignant fibrous histiocytoma	skos:exactMatch	doid	DOID:0080664	diaphyseal medullary stenosis with malignant fibrous histiocytoma	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C536173	Diffuse palmoplantar keratoderma, Bothnian type	skos:exactMatch	doid	DOID:0111707	Bothnian type palmoplantar keratoderma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536190	Ectodermal dysplasia, ectrodactyly, and macular dystrophy	skos:exactMatch	doid	DOID:0111649	ectodermal dysplasia, ectrodactyly, and macular dystrophy syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536201	Ehlers-Danlos syndrome, progeroid form	skos:exactMatch	doid	DOID:0050802	Ehlers-Danlos syndrome progeroid type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536223	Cushing's symphalangism	skos:exactMatch	doid	DOID:0050788	proximal symphalangism	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536237	Blount disease	skos:exactMatch	doid	DOID:14798	Blount's disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536253	Pyogenic arthritis, pyoderma gangrenosum, and acne	skos:exactMatch	doid	DOID:0080519	PAPA syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536273	Ichthyosis with hypotrichosis, autosomal recessive	skos:exactMatch	doid	DOID:0060720	autosomal recessive congenital ichthyosis 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536288	Thymic aplasia	skos:exactMatch	doid	DOID:2012	Nezelof syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536309	Patterned dystrophy of retinal pigment epithelium	skos:exactMatch	doid	DOID:0060863	patterned macular dystrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536317	PEHO syndrome	skos:exactMatch	doid	DOID:0080539	PEHO syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536330	Polycystic liver disease	skos:exactMatch	doid	DOID:0050770	polycystic liver disease	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C536358	Anemia, sideroblastic spinocerebellar ataxia	skos:exactMatch	doid	DOID:0050554	X-linked sideroblastic anemia with ataxia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536382	Exudative vitreoretinopathy 1	skos:exactMatch	doid	DOID:0111412	exudative vitreoretinopathy 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536424	Progressive hearing loss stapes fixation	skos:exactMatch	doid	DOID:0111737	X-linked deafness 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536446	Corpus callosum agenesis neuronopathy	skos:exactMatch	doid	DOID:0090003	agenesis of the corpus callosum with peripheral neuropathy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536450	Cowchock syndrome	skos:exactMatch	doid	DOID:0110212	Charcot-Marie-Tooth disease X-linked recessive 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536464	Waardenburg syndrome type 2A	skos:exactMatch	doid	DOID:0110950	Waardenburg syndrome type 2A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536465	Waardenburg syndrome type 2B	skos:exactMatch	doid	DOID:0110947	Waardenburg syndrome type 2B	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536512	Thiopurine S methyltranferase deficiency	skos:exactMatch	doid	DOID:0080172	thiopurine S-methyltransferase deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536560	Chanarin-Dorfman Syndrome	skos:exactMatch	doid	DOID:0050729	neutral lipid storage disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536573	Boomerang dysplasia	skos:exactMatch	doid	DOID:0050680	Boomerang dysplasia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536595	Alzheimer disease type 2	skos:exactMatch	doid	DOID:0110035	Alzheimer's disease 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536596	Alzheimer disease type 4	skos:exactMatch	doid	DOID:0110040	Alzheimer's disease 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536598	Alzheimer disease, familial, type 3	skos:exactMatch	doid	DOID:0110042	Alzheimer's disease 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536600	Amaurosis congenita of Leber, type 1	skos:exactMatch	doid	DOID:0110078	Leber congenital amaurosis 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536601	Amaurosis congenita of Leber, type 2	skos:exactMatch	doid	DOID:0110016	Leber congenital amaurosis 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536602	Amaurosis congenita of Leber, type 5	skos:exactMatch	doid	DOID:0110215	Leber congenital amaurosis 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536603	Amaurosis congenita of Leber, type 9	skos:exactMatch	doid	DOID:0110005	Leber congenital amaurosis 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536642	Spastic paraplegia 15, autosomal recessive	skos:exactMatch	doid	DOID:0110768	hereditary spastic paraplegia 15	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536644	Spastic paraplegia 17	skos:exactMatch	doid	DOID:0110770	hereditary spastic paraplegia 17	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536657	Periodic fever, familial, autosomal dominant	skos:exactMatch	doid	DOID:0090018	autosomal dominant familial periodic fever	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536678	Snyder Robinson syndrome	skos:exactMatch	doid	DOID:0060802	syndromic X-linked intellectual disability Snyder type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536708	Wilson-Turner X-linked mental retardation syndrome	skos:exactMatch	doid	DOID:0060814	Wilson-Turner syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536761	X-linked sideroblastic anemia	skos:exactMatch	doid	DOID:0060063	sideroblastic anemia 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536766	Xeroderma pigmentosum, variant type	skos:exactMatch	doid	DOID:0110847	xeroderma pigmentosum variant type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536772	Syphilis, primary	skos:exactMatch	doid	DOID:4156	primary syphilis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536781	T-cell immunodeficiency, congenital alopecia and nail dystrophy	skos:exactMatch	doid	DOID:0060769	T-cell immunodeficiency, congenital alopecia, and nail dystrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536825	Glomerulonephritis sparse hair telangiectases	skos:exactMatch	doid	DOID:0111360	hypotrichosis-lymphedema-telangiectasia-renal defect syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536855	Fanconi like syndrome	skos:exactMatch	doid	DOID:0090066	Fanconi-like syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536858	Spastic paraplegia 20, autosomal recessive	skos:exactMatch	doid	DOID:0050886	Troyer syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536859	Spastic paraplegia 23	skos:exactMatch	doid	DOID:0110774	hereditary spastic paraplegia 23	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536862	Spastic paraplegia 26, autosomal recessive	skos:exactMatch	doid	DOID:0110777	hereditary spastic paraplegia 26	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536875	Arrest of spermatogenesis	skos:exactMatch	doid	DOID:0070176	spermatogenic failure 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536880	Spinal muscular atrophy with respiratory distress 1	skos:exactMatch	doid	DOID:0111064	distal spinal muscular atrophy 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536911	Familial medullary thyroid carcinoma	skos:exactMatch	doid	DOID:0050547	familial medullary thyroid carcinoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536919	Tietz syndrome	skos:exactMatch	doid	DOID:0090002	Tietz syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536943	NOG-Related-Symphalangism Spectrum Disorder	skos:exactMatch	doid	DOID:0050789	tarsal-carpal coalition syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536969	Torsion dystonia with onset in infancy	skos:exactMatch	doid	DOID:0090058	torsion dystonia with onset in infancy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536974	Townes-Brocks syndrome	skos:exactMatch	doid	DOID:0050887	Townes-Brocks syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C536987	Mosaic variegated aneuploidy syndrome	skos:exactMatch	doid	DOID:0080141	mosaic variegated aneuploidy syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C536987	Mosaic variegated aneuploidy syndrome	skos:exactMatch	doid	DOID:0080688	mosaic variegated aneuploidy syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537005	Complement component 5 deficiency	skos:exactMatch	doid	DOID:8158	complement component 5 deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537027	Lipoid congenital adrenal hyperplasia	skos:exactMatch	doid	DOID:0050811	congenital adrenal hyperplasia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537043	Albinism ocular late onset sensorineural deafness	skos:exactMatch	doid	DOID:0090100	ocular albinism with sensorineural deafness	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537087	Brachydactyly preaxial with hallux varus and thumb abduction	skos:exactMatch	doid	DOID:0110962	brachydactyly-preaxial hallux varus syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537088	Brachydactyly type A1	skos:exactMatch	doid	DOID:0110964	brachydactyly type A1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537090	Brachydactyly type A3	skos:exactMatch	doid	DOID:0110966	brachydactyly type A3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537094	Brachydactyly types B and E combined	skos:exactMatch	doid	DOID:0110963	Ballard syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537097	Brachymesophalangy 2 and 5	skos:exactMatch	doid	DOID:0110967	brachydactyly type A4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537098	Brachyolmia	skos:exactMatch	doid	DOID:0050690	brachyolmia	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537104	Branchiootic syndrome	skos:exactMatch	doid	DOID:0060232	branchiootic syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537117	LEOPARD syndrome, 2	skos:exactMatch	doid	DOID:0080549	LEOPARD syndrome 2	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537125	Optic atrophy, X-linked	skos:exactMatch	doid	DOID:0111443	optic atrophy 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537126	Optic atrophy 5	skos:exactMatch	doid	DOID:0111438	optic atrophy 5	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537127	Optic atrophy 6	skos:exactMatch	doid	DOID:0111435	optic atrophy 6	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537129	Optic atrophy polyneuropathy deafness	skos:exactMatch	doid	DOID:0110210	Charcot-Marie-Tooth disease X-linked recessive 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537135	Orofaciodigital syndrome, Shashi type	skos:exactMatch	doid	DOID:0060826	syndromic X-linked intellectual disability Shashi type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537149	Hypogammaglobulinemia and Isolated growth hormone deficiency, X-linked	skos:exactMatch	doid	DOID:0060875	isolated growth hormone deficiency type III	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537150	Hypoglycemia, leucine-induced	skos:exactMatch	doid	DOID:0112262	leucine-sensitive hypoglycemia of infancy	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537176	Parkinson disease 3	skos:exactMatch	doid	DOID:0111250	Parkinson's disease 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537179	Parkinsonism, early onset with mental retardation	skos:exactMatch	doid	DOID:0111781	Waisman syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537181	Paroxysmal nonkinesigenic dyskinesia	skos:exactMatch	doid	DOID:0090049	paroxysmal nonkinesigenic dyskinesia 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537189	Rufous oculocutaneous albinism	skos:exactMatch	doid	DOID:0070097	oculocutaneous albinism type III	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537199	Spinocerebellar ataxia 20	skos:exactMatch	doid	DOID:0050971	spinocerebellar ataxia type 20	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537210	Knuckle pads, leuconychia and sensorineural deafness	skos:exactMatch	doid	DOID:0050658	Bart-Pumphrey syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537257	Hepatic venoocclusive disease with immunodeficiency	skos:exactMatch	doid	DOID:0112254	hepatic venoocclusive disease with immunodeficiency	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537264	Lamellar ichthyosis, type 2	skos:exactMatch	doid	DOID:0060712	autosomal recessive congenital ichthyosis 4A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537286	Gonadal dysgenesis XX type deafness	skos:exactMatch	doid	DOID:0050857	Perrault syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537344	Sinonasal undifferentiated carcinoma	skos:exactMatch	doid	DOID:0080799	sinonasal undifferentiated carcinoma	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537360	Methylmalonic aciduria cblA type	skos:exactMatch	doid	DOID:0060742	methylmalonic acidemia cblA type	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C537362	Immunodeficiency syndrome, variable	skos:exactMatch	doid	DOID:0090007	immunodeficiency-centromeric instability-facial anomalies syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537404	Pituitary dwarfism 1	skos:exactMatch	doid	DOID:0060873	isolated growth hormone deficiency type IA	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537406	Bruck syndrome 1	skos:exactMatch	doid	DOID:0060231	Bruck syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537459	Meretoja syndrome	skos:exactMatch	doid	DOID:0050637	Finnish type amyloidosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537472	Miles-Carpenter x-linked mental retardation syndrome	skos:exactMatch	doid	DOID:0060815	Miles-Carpenter syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537521	Scleroatonic muscular dystrophy	skos:exactMatch	doid	DOID:0050558	Ullrich congenital muscular dystrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537533	Seckel syndrome 1	skos:exactMatch	doid	DOID:0070007	Seckel syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537534	Seckel syndrome 2	skos:exactMatch	doid	DOID:0070013	Seckel syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537565	Jarcho-Levin syndrome	skos:exactMatch	doid	DOID:0050568	spondylocostal dysostosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537571	Jeune syndrome	skos:exactMatch	doid	DOID:0050592	asphyxiating thoracic dystrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537577	Microcephalic osteodysplastic primordial dwarfism, type 1	skos:exactMatch	doid	DOID:0060608	microcephalic osteodysplastic primordial dwarfism type I	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537582	Sennetsu Fever	skos:exactMatch	doid	DOID:0050485	sennetsu fever	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537589	Severe combined immunodeficiency with sensitivity to ionizing radiation	skos:exactMatch	doid	DOID:0090012	severe combined immunodeficiency with sensitivity to ionizing radiation	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537607	Rhizomelic chondrodysplasia punctata, type 2	skos:exactMatch	doid	DOID:0110852	rhizomelic chondrodysplasia punctata type 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537608	Rhizomelic chondrodysplasia punctata, type 3	skos:exactMatch	doid	DOID:0110853	rhizomelic chondrodysplasia punctata type 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537617	Krause-Kivlin syndrome	skos:exactMatch	doid	DOID:0080201	Peters plus syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537651	Bartter syndrome, antenatal , type 2	skos:exactMatch	doid	DOID:0110143	Bartter disease type 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537652	Bartter syndrome, antenatal type 1	skos:exactMatch	doid	DOID:0110142	Bartter disease type 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537655	Basal cell carcinoma, infundibulocystic	skos:exactMatch	doid	DOID:4279	infundibulocystic basal cell carcinoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537698	Juvenile macular degeneration and hypotrichosis	skos:exactMatch	doid	DOID:0110711	congenital hypotrichosis with juvenile macular dystrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537700	Juvenile osteoporosis	skos:exactMatch	doid	DOID:12559	idiopathic juvenile osteoporosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537702	Juvenile polyposis syndrome	skos:exactMatch	doid	DOID:0050787	juvenile polyposis syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537709	Hermansky Pudlak syndrome 2	skos:exactMatch	doid	DOID:0060540	Hermansky-Pudlak syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537729	Oculocutaneous albinism type 1B	skos:exactMatch	doid	DOID:0070095	oculocutaneous albinism type IB	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537730	Oculocutaneous albinism type 2	skos:exactMatch	doid	DOID:0070096	oculocutaneous albinism type II	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537738	Oculopalatoskeletal syndrome	skos:exactMatch	doid	DOID:0060575	3MC syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537755	Renal dysplasia diffuse cystic	skos:exactMatch	doid	DOID:0111682	diffuse cystic renal dysplasia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537769	Anophthalmos with limb anomalies	skos:exactMatch	doid	DOID:0060861	microphthalmia with limb anomalies	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537786	Aphakia, congenital primary	skos:exactMatch	doid	DOID:11367	congenital aphakia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537791	Axial osteomalacia	skos:exactMatch	doid	DOID:0080039	axial osteomalacia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537847	Noonan syndrome 3	skos:exactMatch	doid	DOID:0060581	Noonan syndrome 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537856	Nystagmus 4, congenital, autosomal dominant	skos:exactMatch	doid	DOID:0111794	congenital nystagmus 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537901	Bamforth syndrome	skos:exactMatch	doid	DOID:0050655	Bamforth-Lazarus syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537904	Bantu siderosis	skos:exactMatch	doid	DOID:0111033	African iron overload	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537909	Bardet-Biedl syndrome 1	skos:exactMatch	doid	DOID:0110123	Bardet-Biedl syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537910	Bardet-Biedl syndrome 2	skos:exactMatch	doid	DOID:0110124	Bardet-Biedl syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537911	Bardet-Biedl syndrome 3	skos:exactMatch	doid	DOID:0110125	Bardet-Biedl syndrome 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537912	Bardet-Biedl syndrome 4	skos:exactMatch	doid	DOID:0110126	Bardet-Biedl syndrome 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537915	Chondrodysplasia, Grebe type	skos:exactMatch	doid	DOID:0080052	acromesomelic dysplasia, Grebe type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537919	Fertile eunuch syndrome	skos:exactMatch	doid	DOID:0090091	hypogonadotropic hypogonadism 23 with or without anosmia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537944	Amyloidosis, Cerebroarterial, App-Related	skos:exactMatch	doid	DOID:0070028	APP-related cerebral amyloid angiopathy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537984	Charcot-Marie-Tooth disease, Type 1C	skos:exactMatch	doid	DOID:0110151	Charcot-Marie-Tooth disease type 1C	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537985	Charcot-Marie-Tooth disease, Type 1D	skos:exactMatch	doid	DOID:0110150	Charcot-Marie-Tooth disease type 1D	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537989	Charcot-Marie-Tooth disease, Type 2B	skos:exactMatch	doid	DOID:0110159	Charcot-Marie-Tooth disease type 2B	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537990	Charcot-Marie-Tooth disease, Type 2B1	skos:exactMatch	doid	DOID:0110156	Charcot-Marie-Tooth disease type 2B1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C537991	Charcot-Marie-Tooth disease, Type 2B2	skos:exactMatch	doid	DOID:0110179	Charcot-Marie-Tooth disease type 2B2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538024	Chromosome 9p Deletion Syndrome	skos:exactMatch	doid	DOID:0060732	chromosome 9p deletion syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538052	Propping Zerres syndrome	skos:exactMatch	doid	DOID:0050601	ADULT syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538053	Adult-onset citrullinemia type 2	skos:exactMatch	doid	DOID:0070342	adult-onset type II citrullinemia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538104	Pallidopyramidal syndrome	skos:exactMatch	doid	DOID:0060372	Parkinson's disease 15	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538132	Lacrimoauriculodentodigital syndrome	skos:exactMatch	doid	DOID:0050331	LADD syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538150	Syndactyly Cenani Lenz type	skos:exactMatch	doid	DOID:0090015	Cenani-Lenz syndactyly syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538156	Synostoses, tarsal, carpal, and digital	skos:exactMatch	doid	DOID:14762	calcaneonavicular coalition	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538178	Acrodermatitis enteropathica	skos:exactMatch	doid	DOID:0050605	acrodermatitis enteropathica	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538184	Acrofacial dysostosis, Nager type	skos:exactMatch	doid	DOID:5768	Nager acrofacial dysostosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538192	Furlong syndrome	skos:exactMatch	doid	DOID:0070235	Loeys-Dietz syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538197	Deafness, autosomal dominant nonsyndromic sensorineural 22	skos:exactMatch	doid	DOID:0110552	autosomal dominant nonsyndromic deafness 22	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538202	Deafness, autosomal recessive 51	skos:exactMatch	doid	DOID:0110508	autosomal recessive nonsyndromic deafness 51	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538203	Deafness, autosomal recessive 55	skos:exactMatch	doid	DOID:0110510	autosomal recessive nonsyndromic deafness 55	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538209	Dementia, familial Danish	skos:exactMatch	doid	DOID:0070030	ITM2B-related cerebral amyloid angiopathy 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538225	Adams Oliver syndrome	skos:exactMatch	doid	DOID:0060227	Adams-Oliver syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538241	Amelogenesis imperfecta nephrocalcinosis	skos:exactMatch	doid	DOID:0110066	amelogenesis imperfecta type 1G	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538249	Amyloidosis, familial visceral	skos:exactMatch	doid	DOID:0050636	familial visceral amyloidosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538263	Atrial septal defect 2	skos:exactMatch	doid	DOID:0110107	atrial heart septal defect 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538285	Cataract congenital Volkmann type	skos:exactMatch	doid	DOID:0110228	cataract 8 multiple types	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538322	Histiocytosis with joint contractures and sensorineural deafness	skos:exactMatch	doid	DOID:0111278	histiocytosis-lymphadenopathy plus syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538346	Naxos disease	skos:exactMatch	doid	DOID:0080551	Naxos disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538348	Nemaline myopathy 1	skos:exactMatch	doid	DOID:0110926	nemaline myopathy 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538351	Nemaline myopathy 4	skos:exactMatch	doid	DOID:0110932	nemaline myopathy 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538363	Retinal cone dystrophy 2	skos:exactMatch	doid	DOID:0111011	cone-rod dystrophy 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538375	Hyperinsulinemic hypoglycemia, familial, 6	skos:exactMatch	doid	DOID:0070217	familial hyperinsulinemic hypoglycemia 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538380	HHH syndrome	skos:exactMatch	doid	DOID:0050720	ornithine translocase deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538381	Hyperostosis-hyperphosphatemia syndrome	skos:exactMatch	doid	DOID:0111063	hyperphosphatemic familial tumoral calcinosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538385	Hyperprolinemia type 2	skos:exactMatch	doid	DOID:0080543	hyperprolinemia type 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538397	Nemaline myopathy 5	skos:exactMatch	doid	DOID:0110936	nemaline myopathy 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538398	Nemaline myopathy 6	skos:exactMatch	doid	DOID:0110935	nemaline myopathy 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538603	Ichthyosiform erythroderma, Brocq congenital, nonbullous form	skos:exactMatch	doid	DOID:0060710	autosomal recessive congenital ichthyosis 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C538639	Sarcoma family syndrome of Li and Fraumeni	skos:exactMatch	doid	DOID:0111503	Li-Fraumeni syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C548081	Noonan Syndrome 2	skos:exactMatch	doid	DOID:0060580	Noonan syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C548082	Noonan Syndrome 4	skos:exactMatch	doid	DOID:0060582	Noonan syndrome 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C548083	Noonan Syndrome 5	skos:exactMatch	doid	DOID:0060583	Noonan syndrome 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C548084	Noonan Syndrome 6	skos:exactMatch	doid	DOID:0060584	Noonan syndrome 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562489	Lymphoid Interstitial Pneumonia	skos:exactMatch	doid	DOID:0050159	lymphoid interstitial pneumonia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562592	Xeroderma Pigmentosum, Complementation Group F	skos:exactMatch	doid	DOID:0110848	xeroderma pigmentosum group F	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562593	Xeroderma Pigmentosum, Complementation Group G	skos:exactMatch	doid	DOID:0110849	xeroderma pigmentosum group G	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562632	Cutis Laxa, Autosomal Recessive, Type IIA	skos:exactMatch	doid	DOID:0070134	autosomal recessive cutis laxa type IIA	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562638	Epidermolysis Bullosa With Congenital Localized Absence Of Skin And Deformity Of Nails	skos:exactMatch	doid	DOID:0111347	epidermolysis bullosa with congenital localized absence of skin and deformity of nails	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562704	Isolated Growth Hormone Deficiency, Type II	skos:exactMatch	doid	DOID:0060872	isolated growth hormone deficiency type II	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562717	Rh Deficiency Syndrome	skos:exactMatch	doid	DOID:0050641	Rh deficiency syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562719	Tn Syndrome	skos:exactMatch	doid	DOID:0080520	Tn polyagglutination syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562801	3-Methylglutaconic Aciduria, Type I	skos:exactMatch	doid	DOID:0110002	3-methylglutaconic aciduria type 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562841	Ovarian Germ Cell Cancer	skos:exactMatch	doid	DOID:2156	ovarian germ cell cancer	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562880	Amelogenesis Imperfecta, Type III	skos:exactMatch	doid	DOID:0110055	amelogenesis imperfecta type 3A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562901	Nephrolithiasis, X-Linked Recessive, with Renal Failure	skos:exactMatch	doid	DOID:0111798	X-linked nephrolithiasis type I	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562902	Oligosynaptic Infertility	skos:exactMatch	doid	DOID:0070188	spermatogenic failure 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562907	Twenty-Nail Dystrophy	skos:exactMatch	doid	DOID:0080079	nonsyndromic congenital nail disorder 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562950	Cleft Soft Palate	skos:exactMatch	doid	DOID:0110214	cleft soft palate	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C562968	Spondyloepimetaphyseal Dysplasia With Joint Laxity	skos:exactMatch	doid	DOID:0112197	spondyloepimetaphyseal dysplasia with joint laxity	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C563008	Glycogen Storage Disease IXB	skos:exactMatch	doid	DOID:0111041	glycogen storage disease IXb	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563032	Preterm Premature Rupture of the Membranes	skos:exactMatch	doid	DOID:0111144	preterm premature rupture of the membranes	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563034	Basal Laminar Drusen	skos:exactMatch	doid	DOID:0060746	basal laminar drusen	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563039	Coumarin Resistance	skos:exactMatch	doid	DOID:0080665	warfarin resistance	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563050	Alpha-Thalassemia Mental Retardation Syndrome, Deletion-Type	skos:exactMatch	doid	DOID:0110029	alpha thalassemia-intellectual disability syndrome type 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563218	Brachyolmia Type 2	skos:exactMatch	doid	DOID:0111553	spondyloepiphyseal dysplasia Maroteaux type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563261	Renal Adysplasia	skos:exactMatch	doid	DOID:14766	renal agenesis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563295	Deafness, Autosomal Dominant 12	skos:exactMatch	doid	DOID:0110544	autosomal dominant nonsyndromic deafness 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563306	Cardiomyopathy, Dilated, 1D	skos:exactMatch	doid	DOID:0110426	dilated cardiomyopathy 1D	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563310	Inflammatory Bowel Disease 2	skos:exactMatch	doid	DOID:0110900	inflammatory bowel disease 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563311	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive	skos:exactMatch	doid	DOID:0090013	severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, Nk cell-positive	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563320	Retinitis Pigmentosa 18	skos:exactMatch	doid	DOID:0110356	retinitis pigmentosa 18	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563326	Diabetes Mellitus, Insulin-Dependent, 12	skos:exactMatch	doid	DOID:0110751	type 1 diabetes mellitus 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563327	Deafness, Autosomal Recessive 12	skos:exactMatch	doid	DOID:0110467	autosomal recessive nonsyndromic deafness 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563352	Diabetes Mellitus, Insulin-Dependent, 13	skos:exactMatch	doid	DOID:0110752	type 1 diabetes mellitus 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563353	Deafness, Autosomal Dominant 11	skos:exactMatch	doid	DOID:0110543	autosomal dominant nonsyndromic deafness 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563354	Deafness, Autosomal Dominant 10	skos:exactMatch	doid	DOID:0110542	autosomal dominant nonsyndromic deafness 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563365	Polyposis Syndrome, Hereditary Mixed, 1	skos:exactMatch	doid	DOID:0111685	hereditary mixed polyposis syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563371	Diabetes Mellitus, Insulin-Dependent, 11	skos:exactMatch	doid	DOID:0110750	type 1 diabetes mellitus 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563396	Deafness, Autosomal Recessive 9	skos:exactMatch	doid	DOID:0110535	autosomal recessive nonsyndromic deafness 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563399	Epilepsy, Myoclonic, Benign Adult Familial, Type 1	skos:exactMatch	doid	DOID:0111690	familial adult myoclonic epilepsy 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563401	Choreoathetosis-Spasticity, Episodic	skos:exactMatch	doid	DOID:0090044	dystonia 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563409	Arrhythmogenic Right Ventricular Dysplasia, Familial, 2	skos:exactMatch	doid	DOID:0110071	arrhythmogenic right ventricular dysplasia 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563410	Deafness, Autosomal Dominant 5	skos:exactMatch	doid	DOID:0110575	autosomal dominant nonsyndromic deafness 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563412	Juvenile Polyposis with Hereditary Hemorrhagic Telangiectasia	skos:exactMatch	doid	DOID:0111543	juvenile polyposis-hereditary hemorrhagic telangiectasia syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C563415	Cone-Rod Dystrophy 5	skos:exactMatch	doid	DOID:0111010	cone-rod dystrophy 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563417	Deafness, Autosomal Recessive 7	skos:exactMatch	doid	DOID:0110520	autosomal recessive nonsyndromic deafness 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563421	Deafness, Autosomal Dominant 6	skos:exactMatch	doid	DOID:0110584	autosomal dominant nonsyndromic deafness 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563425	Diabetes Mellitus, Permanent Neonatal	skos:exactMatch	doid	DOID:0060639	permanent neonatal diabetes mellitus	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C563428	Long Qt Syndrome 4	skos:exactMatch	doid	DOID:0111701	long QT syndrome 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563433	Diabetes Mellitus, Insulin-Dependent, 8	skos:exactMatch	doid	DOID:0110747	type 1 diabetes mellitus 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563437	Retinitis Pigmentosa 17	skos:exactMatch	doid	DOID:0110404	retinitis pigmentosa 17	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563443	Neuronopathy, Distal Hereditary Motor, Type V	skos:exactMatch	doid	DOID:0111203	distal hereditary motor neuronopathy type 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563448	Orofacial Cleft 3	skos:exactMatch	doid	DOID:0080397	orofacial cleft 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563451	Maturity-Onset Diabetes of the Young, Type 4	skos:exactMatch	doid	DOID:0111103	maturity-onset diabetes of the young type 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563456	Colorectal Cancer, Hereditary Nonpolyposis, Type 5	skos:exactMatch	doid	DOID:0070272	hereditary nonpolyposis colorectal cancer type 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563469	Cone-Rod Dystrophy 1	skos:exactMatch	doid	DOID:0111009	cone-rod dystrophy 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563476	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal Dementia	skos:exactMatch	doid	DOID:0050881	inclusion body myopathy with Paget disease of bone and frontotemporal dementia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563524	NF1 Microdeletion Syndrome	skos:exactMatch	doid	DOID:0060403	chromosome 17q11.2 deletion syndrome, 1.4Mb	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563526	Retinitis Pigmentosa 27	skos:exactMatch	doid	DOID:0110397	retinitis pigmentosa 27	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563540	Atrial Septal Defect 3	skos:exactMatch	doid	DOID:0110108	atrial heart septal defect 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563557	Facioscapulohumeral Muscular Dystrophy 1B	skos:exactMatch	doid	DOID:0111193	facioscapulohumeral muscular dystrophy 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563561	Neuropathy, Distal Hereditary Motor, Type IIA	skos:exactMatch	doid	DOID:0111208	distal hereditary motor neuronopathy type 2A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563562	Neuropathy, Distal Hereditary Motor, Type VIIA	skos:exactMatch	doid	DOID:0111201	distal hereditary motor neuronopathy type 7A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563614	Long Qt Syndrome 2	skos:exactMatch	doid	DOID:0110645	long QT syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563659	Holoprosencephaly 9	skos:exactMatch	doid	DOID:0110873	holoprosencephaly 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563660	Holoprosencephaly 7	skos:exactMatch	doid	DOID:0110876	holoprosencephaly 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563666	Congenital Disorder Of Glycosylation, Type Im	skos:exactMatch	doid	DOID:0080565	congenital disorder of glycosylation Im	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563668	Alopecia-Mental Retardation Syndrome 2	skos:exactMatch	doid	DOID:0080629	alopecia-mental retardation syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563669	Deafness, Autosomal Recessive 68	skos:exactMatch	doid	DOID:0110519	autosomal recessive nonsyndromic deafness 68	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563671	Cone-Rod Dystrophy 11	skos:exactMatch	doid	DOID:0111018	cone-rod dystrophy 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563673	Diarrhea 4, Malabsorptive, Congenital	skos:exactMatch	doid	DOID:0060779	congenital malabsorptive diarrhea 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563675	Orofacial Cleft 9	skos:exactMatch	doid	DOID:0080402	orofacial cleft 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563676	Retinitis Pigmentosa 33	skos:exactMatch	doid	DOID:0110366	retinitis pigmentosa 33	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563685	Retinitis Pigmentosa 31	skos:exactMatch	doid	DOID:0110391	retinitis pigmentosa 31	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563689	Retinitis Pigmentosa 32	skos:exactMatch	doid	DOID:0110355	retinitis pigmentosa 32	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563705	Deafness, Autosomal Recessive 23	skos:exactMatch	doid	DOID:0110481	autosomal recessive nonsyndromic deafness 23	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563720	Deafness, Autosomal Recessive 48	skos:exactMatch	doid	DOID:0110505	autosomal recessive nonsyndromic deafness 48	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563723	Holoprosencephaly 8	skos:exactMatch	doid	DOID:0110879	holoprosencephaly 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563728	Cataract, Congenital Nuclear, Autosomal Recessive 1	skos:exactMatch	doid	DOID:0110261	cataract 35	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563739	Erythrokeratodermia Variabilis 3	skos:exactMatch	doid	DOID:0060483	MEDNIK syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563755	Li-Fraumeni Syndrome 2	skos:exactMatch	doid	DOID:0111504	Li-Fraumeni syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563757	Charcot-Marie-Tooth Disease, Axonal, Type 2A2	skos:exactMatch	doid	DOID:0110155	Charcot-Marie-Tooth disease type 2A2A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563775	Myotilinopathy	skos:exactMatch	doid	DOID:0080094	myofibrillar myopathy 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563789	Peripheral Demyelinating Neuropathy, Central Dysmyelination, Waardenburg Syndrome, and Hirschsprung Disease	skos:exactMatch	doid	DOID:0090111	PCWH syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563794	Limb-Girdle Muscular Dystrophy, Type 1G	skos:exactMatch	doid	DOID:0110306	autosomal dominant limb-girdle muscular dystrophy type 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563808	Arrhythmogenic Right Ventricular Dysplasia, Familial, 9	skos:exactMatch	doid	DOID:0110077	arrhythmogenic right ventricular dysplasia 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563815	Deafness, Autosomal Recessive 36	skos:exactMatch	doid	DOID:0110494	autosomal recessive nonsyndromic deafness 36	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563822	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, NK Cell Positive	skos:exactMatch	doid	DOID:0090014	severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, Nk cell-positive	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C563843	Orofacial Cleft 5	skos:exactMatch	doid	DOID:0080399	orofacial cleft 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563848	Alpha-B Crystallinopathy	skos:exactMatch	doid	DOID:0080093	myofibrillar myopathy 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563854	Muscular Dystrophy, Limb-Girdle, Type 2J	skos:exactMatch	doid	DOID:0110283	autosomal recessive limb-girdle muscular dystrophy type 2J	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563865	Cardiomyopathy, Familial Hypertrophic, 10	skos:exactMatch	doid	DOID:0110316	hypertrophic cardiomyopathy 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563866	Cardiomyopathy, Familial Hypertrophic, 8	skos:exactMatch	doid	DOID:0110314	hypertrophic cardiomyopathy 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563884	Deafness, Autosomal Recessive 32	skos:exactMatch	doid	DOID:0110491	autosomal recessive nonsyndromic deafness 32	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563885	Deafness, Autosomal Dominant 47	skos:exactMatch	doid	DOID:0110570	autosomal dominant nonsyndromic deafness 47	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563888	Deafness, Autosomal Dominant 31	skos:exactMatch	doid	DOID:0110561	autosomal dominant nonsyndromic deafness 31	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563890	Deafness, Autosomal Dominant 28	skos:exactMatch	doid	DOID:0110557	autosomal dominant nonsyndromic deafness 28	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563908	Deafness, Autosomal Recessive 35	skos:exactMatch	doid	DOID:0110493	autosomal recessive nonsyndromic deafness 35	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563926	Inflammatory Bowel Disease 9	skos:exactMatch	doid	DOID:0110886	inflammatory bowel disease 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563957	Diabetes Mellitus, Insulin-Dependent, 7	skos:exactMatch	doid	DOID:0110746	type 1 diabetes mellitus 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563958	Diabetes Mellitus, Insulin-Dependent, 5	skos:exactMatch	doid	DOID:0110744	type 1 diabetes mellitus 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563959	Diabetes Mellitus, Insulin-Dependent, 4	skos:exactMatch	doid	DOID:0110743	type 1 diabetes mellitus 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563960	Diabetes Mellitus, Insulin-Dependent, 3	skos:exactMatch	doid	DOID:0110742	type 1 diabetes mellitus 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563971	Colorectal Cancer, Hereditary Nonpolyposis, Type 4	skos:exactMatch	doid	DOID:0070275	hereditary nonpolyposis colorectal cancer type 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563991	Retinitis Pigmentosa 11	skos:exactMatch	doid	DOID:0110408	retinitis pigmentosa 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563992	Retinitis Pigmentosa 14	skos:exactMatch	doid	DOID:0110381	retinitis pigmentosa 14	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C563999	Retinitis Pigmentosa 12	skos:exactMatch	doid	DOID:0110358	retinitis pigmentosa 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564008	Retinitis Pigmentosa 13	skos:exactMatch	doid	DOID:0110403	retinitis pigmentosa 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564012	Wolfram Syndrome, Mitochondrial Form	skos:exactMatch	doid	DOID:0080583	Wolfram syndrome, mitochondrial form	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564013	Deafness, Aminoglycoside-Induced	skos:exactMatch	doid	DOID:0111734	aminoglycoside-induced deafness	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564048	Dystonia 3, Torsion, X-Linked	skos:exactMatch	doid	DOID:0090057	X-linked dystonia-parkinsonism	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564065	Retinitis Pigmentosa 6	skos:exactMatch	doid	DOID:0110413	retinitis pigmentosa 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564106	Mental Retardation, X-Linked, Syndromic 12	skos:exactMatch	doid	DOID:0060804	syndromic X-linked intellectual disability 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564109	Male Pseudohermaphroditism due to Deficiency of Testicular 17,20-Desmolase	skos:exactMatch	doid	DOID:0111773	46,XY sex reversal 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564140	Leber Congenital Amaurosis 11	skos:exactMatch	doid	DOID:0110216	Leber congenital amaurosis 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564163	Hyperpigmentation, Familial Progressive	skos:exactMatch	doid	DOID:0111373	familial progressive hyperpigmentation with or without hypopigmentation	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564181	Holoprosencephaly 3	skos:exactMatch	doid	DOID:0110875	holoprosencephaly 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564202	Progressive Familial Heart Block, Type II	skos:exactMatch	doid	DOID:0111075	progressive familial heart block type II	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564206	Achromatopsia 4	skos:exactMatch	doid	DOID:0110010	achromatopsia 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564242	Muscular Dystrophy, Limb-Girdle, Type 1F	skos:exactMatch	doid	DOID:0110304	autosomal dominant limb-girdle muscular dystrophy type 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564245	Platelet Glycoprotein IV Deficiency	skos:exactMatch	doid	DOID:0111046	platelet-type bleeding disorder 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564246	Deafness, Autosomal Dominant 43	skos:exactMatch	doid	DOID:0110568	autosomal dominant nonsyndromic deafness 43	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564249	Retinitis Pigmentosa 26	skos:exactMatch	doid	DOID:0110368	retinitis pigmentosa 26	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564250	Deafness, Autosomal Dominant 49	skos:exactMatch	doid	DOID:0110572	autosomal dominant nonsyndromic deafness 49	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564251	Orofacial Cleft 4	skos:exactMatch	doid	DOID:0080398	orofacial cleft 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564256	Charcot-Marie-Tooth Disease, Recessive Intermediate A	skos:exactMatch	doid	DOID:0110201	Charcot-Marie-Tooth disease recessive intermediate A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564257	Charcot-Marie-Tooth Disease, Dominant Intermediate C	skos:exactMatch	doid	DOID:0110199	Charcot-Marie-Tooth disease dominant intermediate C	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564266	Deafness, Autosomal Recessive 40	skos:exactMatch	doid	DOID:0110499	autosomal recessive nonsyndromic deafness 40	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564272	Deafness, Autosomal Dominant 41	skos:exactMatch	doid	DOID:0110567	autosomal dominant nonsyndromic deafness 41	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564273	Deafness, Autosomal Recessive 38	skos:exactMatch	doid	DOID:0110496	autosomal recessive nonsyndromic deafness 38	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564284	Retinitis Pigmentosa 7	skos:exactMatch	doid	DOID:0110383	retinitis pigmentosa 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564300	Amyotrophic Lateral Sclerosis 7	skos:exactMatch	doid	DOID:0060199	amyotrophic lateral sclerosis type 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564306	Gaucher Disease, Perinatal Lethal	skos:exactMatch	doid	DOID:0110960	Gaucher's disease perinatal lethal	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564310	Retinitis Pigmentosa 30	skos:exactMatch	doid	DOID:0110406	retinitis pigmentosa 30	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564312	Hypotrichosis, Localized, Autosomal Recessive 1	skos:exactMatch	doid	DOID:0110703	hypotrichosis 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564313	Epilepsy, Myoclonic, Benign Adult Familial, Type 2	skos:exactMatch	doid	DOID:0111692	familial adult myoclonic epilepsy 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564322	Deafness, Autosomal Dominant 48	skos:exactMatch	doid	DOID:0110571	autosomal dominant nonsyndromic deafness 48	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564327	Hypotrichosis-Lymphedema-Telangiectasia Syndrome	skos:exactMatch	doid	DOID:0111361	hypotrichosis-lymphedema-telangiectasia syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564331	Deafness, Autosomal Recessive 37	skos:exactMatch	doid	DOID:0110495	autosomal recessive nonsyndromic deafness 37	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564333	Charcot-Marie-Tooth Disease, Dominant Intermediate D	skos:exactMatch	doid	DOID:0110200	Charcot-Marie-Tooth disease dominant intermediate D	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564348	Deafness, Autosomal Dominant 52	skos:exactMatch	doid	DOID:0110578	autosomal dominant nonsyndromic deafness 52	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564362	Neuronopathy, Distal Hereditary Motor, Type Viib	skos:exactMatch	doid	DOID:0111202	distal hereditary motor neuronopathy type 7B	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564392	Bothnia Retinal Dystrophy	skos:exactMatch	doid	DOID:0050683	Bothnia retinal dystrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564399	Deafness, Autosomal Dominant 44	skos:exactMatch	doid	DOID:0110569	autosomal dominant nonsyndromic deafness 44	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564400	Arrhythmogenic Right Ventricular Dysplasia, Familial, 8	skos:exactMatch	doid	DOID:0110076	arrhythmogenic right ventricular dysplasia 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564428	Exudative Vitreoretinopathy, Familial, X-Linked Recessive	skos:exactMatch	doid	DOID:0111413	X-linked exudative vitreoretinopathy 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564438	Cone-Rod Dystrophy, X-Linked, Type 1	skos:exactMatch	doid	DOID:0111008	X-linked cone-rod dystrophy 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564475	Retinitis Pigmentosa 34	skos:exactMatch	doid	DOID:0110417	retinitis pigmentosa 34	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564485	Glycogen Storage Disease, Type IXD	skos:exactMatch	doid	DOID:0111040	glycogen storage disease IXd	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564499	Ovarian Dysgenesis 2	skos:exactMatch	doid	DOID:0080494	ovarian dysgenesis 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564507	Cone-Rod Dystrophy, X-Linked, 3	skos:exactMatch	doid	DOID:0111007	X-linked cone-rod dystrophy 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564520	Retinitis Pigmentosa 3	skos:exactMatch	doid	DOID:0110414	retinitis pigmentosa 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564543	Intrauterine Growth Retardation, Metaphyseal Dysplasia, Adrenal Hypoplasia Congenita, And Genital Anomalies	skos:exactMatch	doid	DOID:0050885	IMAGe syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564551	Armfield X-Linked Mental Retardation Syndrome	skos:exactMatch	doid	DOID:0050764	Armfield syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564560	Mental Retardation, X-Linked, Syndromic 10	skos:exactMatch	doid	DOID:0060810	syndromic X-linked intellectual disability type 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564597	Cone-Rod Dystrophy 10	skos:exactMatch	doid	DOID:0111017	cone-rod dystrophy 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564602	Deafness, Autosomal Recessive 33	skos:exactMatch	doid	DOID:0110492	autosomal recessive nonsyndromic deafness 33	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564612	Muscular Dystrophy, Limb-Girdle, Type 2I	skos:exactMatch	doid	DOID:0110299	autosomal recessive limb-girdle muscular dystrophy type 2I	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564622	Alzheimer Disease 8	skos:exactMatch	doid	DOID:0110041	Alzheimer's disease 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564624	Deafness, Autosomal Recessive 30	skos:exactMatch	doid	DOID:0110489	autosomal recessive nonsyndromic deafness 30	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564629	Deafness, Autosomal Recessive 31	skos:exactMatch	doid	DOID:0110490	autosomal recessive nonsyndromic deafness 31	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564633	Deafness, Autosomal Recessive 22	skos:exactMatch	doid	DOID:0110480	autosomal recessive nonsyndromic deafness 22	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564634	Deafness, Autosomal Dominant 21	skos:exactMatch	doid	DOID:0110551	autosomal dominant nonsyndromic deafness 21	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564640	Nephronophthisis 4	skos:exactMatch	doid	DOID:0111115	nephronophthisis 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564675	Deafness, Autosomal Dominant 36	skos:exactMatch	doid	DOID:0110563	autosomal dominant nonsyndromic deafness 36	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564680	Inflammatory Bowel Disease 4	skos:exactMatch	doid	DOID:0110903	inflammatory bowel disease 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564681	Inflammatory Bowel Disease 6	skos:exactMatch	doid	DOID:0110907	inflammatory bowel disease 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564682	Inflammatory Bowel Disease 8	skos:exactMatch	doid	DOID:0110904	inflammatory bowel disease 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564688	Amyotrophic Lateral Sclerosis 3	skos:exactMatch	doid	DOID:0060195	amyotrophic lateral sclerosis type 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564694	LIG4 Syndrome	skos:exactMatch	doid	DOID:0060021	DNA ligase IV deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564702	Charcot-Marie-Tooth Disease, Dominant Intermediate A	skos:exactMatch	doid	DOID:0110202	Charcot-Marie-Tooth disease dominant intermediate A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564703	Charcot-Marie-Tooth Disease, Dominant Intermediate B	skos:exactMatch	doid	DOID:0110197	Charcot-Marie-Tooth disease dominant intermediate B	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564706	Deafness, Autosomal Dominant 30	skos:exactMatch	doid	DOID:0110560	autosomal dominant nonsyndromic deafness 30	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564708	Huntington Disease-Like 2	skos:exactMatch	doid	DOID:0090104	Huntington's disease-like 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564710	Hypotonia-Cystinuria Syndrome	skos:exactMatch	doid	DOID:0060858	hypotonia-cystinuria syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564815	Spastic Ataxia	skos:exactMatch	doid	DOID:0050952	spastic ataxia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564818	Peeling Skin Syndrome	skos:exactMatch	doid	DOID:0060283	peeling skin syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C564858	Pyruvate Kinase Deficiency of Red Cells	skos:exactMatch	doid	DOID:0111077	pyruvate kinase deficiency of red cells	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C564888	Glycogen Storage Disease of Heart, Lethal Congenital	skos:exactMatch	doid	DOID:0090101	lethal congenital glycogen storage disease of heart	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565070	Cleft Lip with or without Cleft Palate, Nonsyndromic, 8	skos:exactMatch	doid	DOID:0080401	orofacial cleft 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565079	Dyskeratosis Congenita, Autosomal Dominant	skos:exactMatch	doid	DOID:0070014	autosomal dominant dyskeratosis congenita 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565100	Diabetes Mellitus, Insulin-Dependent, 2	skos:exactMatch	doid	DOID:0110741	type 1 diabetes mellitus 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565102	Keratosis Palmoplantaris Striata II	skos:exactMatch	doid	DOID:0081109	keratosis palmoplantaris striata 2	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C565121	Deafness, Autosomal Dominant 1	skos:exactMatch	doid	DOID:0110541	autosomal dominant nonsyndromic deafness 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565128	Mitochondrial Complex III Deficiency	skos:exactMatch	doid	DOID:0111139	mitochondrial complex III deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565152	Corticosteroid-Binding Globulin Deficiency	skos:exactMatch	doid	DOID:0090030	corticosteroid-binding globulin deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565155	Epithelial Recurrent Erosion Dystrophy	skos:exactMatch	doid	DOID:0070337	epithelial recurrent erosion dystrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565165	C9 Deficiency	skos:exactMatch	doid	DOID:0060303	complement component 9 deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565167	Complement Component 4a Deficiency	skos:exactMatch	doid	DOID:0060297	complement component 4a deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565198	Nemaline Myopathy 7	skos:exactMatch	doid	DOID:0110934	nemaline myopathy 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565200	Osteogenesis Imperfecta Type VII	skos:exactMatch	doid	DOID:0110337	osteogenesis imperfecta type 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565206	Retinitis Pigmentosa 35	skos:exactMatch	doid	DOID:0110357	retinitis pigmentosa 35	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565207	Deafness, Autosomal Recessive 67	skos:exactMatch	doid	DOID:0110518	autosomal recessive nonsyndromic deafness 67	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565211	Deafness, Autosomal Recessive 65	skos:exactMatch	doid	DOID:0110516	autosomal recessive nonsyndromic deafness 65	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565227	Generalized Epilepsy With Febrile Seizures Plus, Type 4	skos:exactMatch	doid	DOID:0111293	generalized epilepsy with febrile seizures plus 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565228	Alzheimer Disease 11	skos:exactMatch	doid	DOID:0110044	Alzheimer's disease 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565231	MODY, Type 6	skos:exactMatch	doid	DOID:0111104	maturity-onset diabetes of the young type 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565234	Inflammatory Bowel Disease 5	skos:exactMatch	doid	DOID:0110889	inflammatory bowel disease 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565239	Deafness, Autosomal Dominant 24	skos:exactMatch	doid	DOID:0110554	autosomal dominant nonsyndromic deafness 24	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565251	Alzheimer Disease 7	skos:exactMatch	doid	DOID:0110039	Alzheimer's disease 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565261	Hereditary Motor And Sensory Neuropathy, Type IIC	skos:exactMatch	doid	DOID:0110182	Charcot-Marie-Tooth disease axonal type 2C	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565267	Deafness, Autosomal Dominant 18	skos:exactMatch	doid	DOID:0110549	autosomal dominant nonsyndromic deafness 18	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565274	Holoprosencephaly 6	skos:exactMatch	doid	DOID:0110874	holoprosencephaly 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565287	Deafness, Autosomal Recessive 27	skos:exactMatch	doid	DOID:0110485	autosomal recessive nonsyndromic deafness 27	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565297	Exudative Vitreoretinopathy 3	skos:exactMatch	doid	DOID:0111409	exudative vitreoretinopathy 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565309	Late-Onset Retinal Degeneration	skos:exactMatch	doid	DOID:0060869	late-onset retinal degeneration	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565315	Diabetes Mellitus, Insulin-Dependent, 18	skos:exactMatch	doid	DOID:0110755	type 1 diabetes mellitus 18	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565319	Deafness, Autosomal Dominant 25	skos:exactMatch	doid	DOID:0110555	autosomal dominant nonsyndromic deafness 25	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565322	Cone-Rod Dystrophy 8	skos:exactMatch	doid	DOID:0111014	cone-rod dystrophy 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565325	Alzheimer Disease 6	skos:exactMatch	doid	DOID:0110038	Alzheimer's disease 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565327	Leber Congenital Amaurosis 6	skos:exactMatch	doid	DOID:0110329	Leber congenital amaurosis 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565329	Deafness, Autosomal Recessive 26	skos:exactMatch	doid	DOID:0110484	autosomal recessive nonsyndromic deafness 26	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565342	Macrocephaly Autism Syndrome	skos:exactMatch	doid	DOID:0060867	macrocephaly-autism syndrome	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C565343	Optic Atrophy 4	skos:exactMatch	doid	DOID:0111440	optic atrophy 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565353	Inflammatory Bowel Disease 7	skos:exactMatch	doid	DOID:0110882	inflammatory bowel disease 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565357	Deafness, Autosomal Dominant 23	skos:exactMatch	doid	DOID:0110553	autosomal dominant nonsyndromic deafness 23	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565390	Methylmalonic Aciduria due to Methylmalonyl-CoA Mutase Deficiency	skos:exactMatch	doid	DOID:0060740	methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C565393	3-Methylglutaconic Aciduria Type IV	skos:exactMatch	doid	DOID:0110006	3-methylglutaconic aciduria type 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565452	Kniest-Like Dysplasia with Pursed Lips and Ectopia Lentis	skos:exactMatch	doid	DOID:0090005	Schwartz-Jampel syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565460	Jejunal Atresia with Microcephaly and Ocular Anomalies	skos:exactMatch	doid	DOID:0110595	Stromme syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565504	Hydrolethalus Syndrome 1	skos:exactMatch	doid	DOID:0111355	hydrolethalus syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565533	Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Negative	skos:exactMatch	doid	DOID:0070193	autosomal recessive chronic granulomatous disease cytochrome b-negative	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565537	46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related	skos:exactMatch	doid	DOID:0111774	46,XY sex reversal 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565647	Split-Hand-Foot Malformation With Sensorineural Hearing Loss	skos:exactMatch	doid	DOID:0090024	split hand-foot malformation 1 with sensorineural hearing loss	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565662	Acth-Independent Macronodular Adrenal Hyperplasia	skos:exactMatch	doid	DOID:0111622	ACTH-independent macronodular adrenal hyperplasia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565697	Leber Congenital Amaurosis 12	skos:exactMatch	doid	DOID:0110080	Leber congenital amaurosis 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565698	Deafness, Autosomal Recessive 59	skos:exactMatch	doid	DOID:0110511	autosomal recessive nonsyndromic deafness 59	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565699	NBIA2B	skos:exactMatch	doid	DOID:0110736	neurodegeneration with brain iron accumulation 2b	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565701	Deafness, Autosomal Recessive 66	skos:exactMatch	doid	DOID:0110517	autosomal recessive nonsyndromic deafness 66	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565707	Arrhythmogenic Right Ventricular Dysplasia, Familial, 10	skos:exactMatch	doid	DOID:0110081	arrhythmogenic right ventricular dysplasia 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565715	Diabetes Mellitus, Insulin-Dependent, 19	skos:exactMatch	doid	DOID:0110756	type 1 diabetes mellitus 19	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565716	Deafness, Autosomal Recessive 44	skos:exactMatch	doid	DOID:0110501	autosomal recessive nonsyndromic deafness 44	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565719	Deafness, Autosomal Recessive 62	skos:exactMatch	doid	DOID:0110514	autosomal recessive nonsyndromic deafness 62	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565720	Leber Congenital Amaurosis 10	skos:exactMatch	doid	DOID:0110291	Leber congenital amaurosis 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565733	Wolfram Syndrome 2	skos:exactMatch	doid	DOID:0110630	Wolfram syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565738	Bardet-Biedl Syndrome 6	skos:exactMatch	doid	DOID:0110128	Bardet-Biedl syndrome 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565754	Deafness, Autosomal Dominant 20	skos:exactMatch	doid	DOID:0110550	autosomal dominant nonsyndromic deafness 20	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565759	Bare Lymphocyte Syndrome, Type I	skos:exactMatch	doid	DOID:0060009	MHC class I deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565764	Inflammatory Bowel Disease 3	skos:exactMatch	doid	DOID:0110891	inflammatory bowel disease 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565775	Arrhythmogenic Right Ventricular Dysplasia, Familial, 6	skos:exactMatch	doid	DOID:0110075	arrhythmogenic right ventricular dysplasia 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565776	Arrhythmogenic Right Ventricular Dysplasia, Familial, 5	skos:exactMatch	doid	DOID:0110074	arrhythmogenic right ventricular dysplasia 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565777	Colorectal Cancer, Hereditary Nonpolyposis, Type 7	skos:exactMatch	doid	DOID:0070276	hereditary nonpolyposis colorectal cancer type 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565778	Leber Congenital Amaurosis 4	skos:exactMatch	doid	DOID:0110332	Leber congenital amaurosis 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565780	Nephronophthisis 3	skos:exactMatch	doid	DOID:0111114	nephronophthisis 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565784	Cardioencephalomyopathy, Fatal Infantile, due to Cytochrome C Oxidase Deficiency	skos:exactMatch	doid	DOID:0050713	fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565798	Rheumatoid Arthritis, Systemic Juvenile	skos:exactMatch	doid	DOID:676	juvenile rheumatoid arthritis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565808	Generalized Epilepsy with Febrile Seizures Plus	skos:exactMatch	doid	DOID:0060170	generalized epilepsy with febrile seizures plus	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C565809	Generalized Epilepsy With Febrile Seizures Plus, Type 1	skos:exactMatch	doid	DOID:0111302	generalized epilepsy with febrile seizures plus 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565810	Generalized Epilepsy With Febrile Seizures Plus, Type 2	skos:exactMatch	doid	DOID:0111294	generalized epilepsy with febrile seizures plus 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565814	Leber Congenital Amaurosis 3	skos:exactMatch	doid	DOID:0110331	Leber congenital amaurosis 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565827	Cone-Rod Dystrophy 3	skos:exactMatch	doid	DOID:0111013	cone-rod dystrophy 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565828	Deafness, Autosomal Recessive 20	skos:exactMatch	doid	DOID:0110478	autosomal recessive nonsyndromic deafness 20	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565831	Focal Segmental Glomerulosclerosis 2	skos:exactMatch	doid	DOID:0111129	focal segmental glomerulosclerosis 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565832	Deafness, Autosomal Dominant 16	skos:exactMatch	doid	DOID:0110547	autosomal dominant nonsyndromic deafness 16	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565833	Autoimmune Lymphoproliferative Syndrome, Type IIA	skos:exactMatch	doid	DOID:0110115	autoimmune lymphoproliferative syndrome type 2A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565840	Long Qt Syndrome 3	skos:exactMatch	doid	DOID:0110646	long QT syndrome 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565898	Microcephalic Osteodysplastic Primordial Dwarfism, Type II	skos:exactMatch	doid	DOID:0060609	microcephalic osteodysplastic primordial dwarfism type II	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565916	Bardet-Biedl Syndrome 7	skos:exactMatch	doid	DOID:0110129	Bardet-Biedl syndrome 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565917	Bardet-Biedl Syndrome 8	skos:exactMatch	doid	DOID:0110130	Bardet-Biedl syndrome 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565918	Bardet-Biedl Syndrome 9	skos:exactMatch	doid	DOID:0110131	Bardet-Biedl syndrome 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565919	Bardet-Biedl Syndrome 10	skos:exactMatch	doid	DOID:0110132	Bardet-Biedl syndrome 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565920	Bardet-Biedl Syndrome 11	skos:exactMatch	doid	DOID:0110133	Bardet-Biedl syndrome 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565921	Bardet-Biedl Syndrome 12	skos:exactMatch	doid	DOID:0110134	Bardet-Biedl syndrome 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565924	Atrichia with Papular Lesions	skos:exactMatch	doid	DOID:0060689	atrichia with papular lesions	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565935	Asthma, Nasal Polyps, And Aspirin Intolerance	skos:exactMatch	doid	DOID:0111579	asthma, nasal polyps, and aspirin intolerance	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565956	Amyotrophic Lateral Sclerosis, Juvenile, with Dementia	skos:exactMatch	doid	DOID:0110067	juvenile amyotrophic lateral sclerosis with dementia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565957	Amyotrophic Lateral Sclerosis 2, Juvenile	skos:exactMatch	doid	DOID:0060194	amyotrophic lateral sclerosis type 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C565974	Familial Glucocorticoid Deficiency 1	skos:exactMatch	doid	DOID:0080621	glucocorticoid deficiency 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566000	Glycoprotein IA Deficiency	skos:exactMatch	doid	DOID:0111045	platelet-type bleeding disorder 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566029	Triosephosphate Isomerase Deficiency	skos:exactMatch	doid	DOID:0050884	triosephosphate isomerase deficiency	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C566039	Colorectal Cancer, Hereditary Nonpolyposis, Type 6	skos:exactMatch	doid	DOID:0070273	hereditary nonpolyposis colorectal cancer type 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566044	Cardiomyopathy, Familial Hypertrophic, 9	skos:exactMatch	doid	DOID:0110315	hypertrophic cardiomyopathy 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566111	Stomatocytosis I	skos:exactMatch	doid	DOID:0111562	overhydrated hereditary stomatocytosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566138	Charcot-Marie-Tooth Disease, Axonal, Type 2a1	skos:exactMatch	doid	DOID:0110154	Charcot-Marie-Tooth disease type 2A1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566169	Cardiomyopathy, Familial Hypertrophic, 4	skos:exactMatch	doid	DOID:0110310	hypertrophic cardiomyopathy 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566239	Atrial Septal Defect 1	skos:exactMatch	doid	DOID:0110106	atrial heart septal defect 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566270	Apolipoprotein C-III Deficiency	skos:exactMatch	doid	DOID:0111370	apolipoprotein C-III deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566333	Long Qt Syndrome 6	skos:exactMatch	doid	DOID:0110648	long QT syndrome 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566339	Deafness, Autosomal Recessive 16	skos:exactMatch	doid	DOID:0110471	autosomal recessive nonsyndromic deafness 16	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566343	Hereditary Myopathy with Early Respiratory Failure	skos:exactMatch	doid	DOID:0111188	myofibrillar myopathy 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566344	Deafness, Autosomal Recessive 14	skos:exactMatch	doid	DOID:0110469	autosomal recessive nonsyndromic deafness 14	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566350	Cone-Rod Dystrophy 7	skos:exactMatch	doid	DOID:0111012	cone-rod dystrophy 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566353	Deafness, Autosomal Recessive 21	skos:exactMatch	doid	DOID:0110479	autosomal recessive nonsyndromic deafness 21	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566370	Muscular Dystrophy, Limb-Girdle, Type 1D	skos:exactMatch	doid	DOID:0110305	autosomal dominant limb-girdle muscular dystrophy type 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566395	Diabetes Mellitus, Insulin-Dependent, 17	skos:exactMatch	doid	DOID:0110754	type 1 diabetes mellitus 17	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566398	Huntington Disease-Like 1	skos:exactMatch	doid	DOID:0090103	Huntington's disease-like 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566410	Deafness, Autosomal Recessive 13	skos:exactMatch	doid	DOID:0110468	autosomal recessive nonsyndromic deafness 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566418	Deafness, Autosomal Recessive 17	skos:exactMatch	doid	DOID:0110472	autosomal recessive nonsyndromic deafness 17	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566419	Orofacial Cleft 2	skos:exactMatch	doid	DOID:0080396	orofacial cleft 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566425	Retinitis Pigmentosa 25	skos:exactMatch	doid	DOID:0110384	retinitis pigmentosa 25	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566431	Retinitis Pigmentosa 36	skos:exactMatch	doid	DOID:0110405	retinitis pigmentosa 36	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566438	Ceroid Lipofuscinosis, Neuronal, 10	skos:exactMatch	doid	DOID:0110725	neuronal ceroid lipofuscinosis 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566443	Complement Component 7 Deficiency	skos:exactMatch	doid	DOID:0060300	complement component 7 deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566453	Deafness, Autosomal Recessive 53	skos:exactMatch	doid	DOID:0110509	autosomal recessive nonsyndromic deafness 53	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566459	Deafness, Autosomal Recessive 46	skos:exactMatch	doid	DOID:0110503	autosomal recessive nonsyndromic deafness 46	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566460	Deafness, Autosomal Recessive 42	skos:exactMatch	doid	DOID:0110500	autosomal recessive nonsyndromic deafness 42	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566465	Alzheimer Disease 10	skos:exactMatch	doid	DOID:0110043	Alzheimer's disease 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566468	Combined Oxidative Phosphorylation Deficiency 2	skos:exactMatch	doid	DOID:0111483	combined oxidative phosphorylation deficiency 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566471	Arrhythmogenic Right Ventricular Dysplasia, Familial, 11	skos:exactMatch	doid	DOID:0110082	arrhythmogenic right ventricular dysplasia 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566474	Night Blindness, Congenital Stationary, Autosomal Dominant 1	skos:exactMatch	doid	DOID:0110862	congenital stationary night blindness autosomal dominant 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566475	Night Blindness, Congenital Stationary, Autosomal Dominant 3	skos:exactMatch	doid	DOID:0110715	congenital stationary night blindness autosomal dominant 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566476	Chromosome 17q21.31 Deletion Syndrome	skos:exactMatch	doid	DOID:0050880	Koolen de Vries syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566495	Deafness, Autosomal Dominant 53	skos:exactMatch	doid	DOID:0110579	autosomal dominant nonsyndromic deafness 53	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566498	Deafness, Autosomal Recessive 47	skos:exactMatch	doid	DOID:0110504	autosomal recessive nonsyndromic deafness 47	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566545	Deafness, Autosomal Dominant 15	skos:exactMatch	doid	DOID:0110546	autosomal dominant nonsyndromic deafness 15	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566550	Amyotrophic Lateral Sclerosis 4, Juvenile	skos:exactMatch	doid	DOID:0060196	amyotrophic lateral sclerosis type 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566574	Spondyloepimetaphyseal Dysplasia, Missouri Type	skos:exactMatch	doid	DOID:0080030	spondyloepimetaphyseal dysplasia, Missouri type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566576	Amyotrophic Lateral Sclerosis 5	skos:exactMatch	doid	DOID:0060197	amyotrophic lateral sclerosis type 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566578	Alzheimer Disease 5	skos:exactMatch	doid	DOID:0110037	Alzheimer's disease 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566582	Nephronophthisis 2	skos:exactMatch	doid	DOID:0111113	nephronophthisis 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566583	Arrhythmogenic Right Ventricular Dysplasia, Familial, 4	skos:exactMatch	doid	DOID:0110073	arrhythmogenic right ventricular dysplasia 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566584	Arrhythmogenic Right Ventricular Dysplasia, Familial, 3	skos:exactMatch	doid	DOID:0110072	arrhythmogenic right ventricular dysplasia 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566594	Friedreich Ataxia 2	skos:exactMatch	doid	DOID:0111219	Friedreich ataxia 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566599	Muscular Dystrophy, Limb-Girdle, Type 2G	skos:exactMatch	doid	DOID:0110281	autosomal recessive limb-girdle muscular dystrophy type 2G	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566602	Diabetes Mellitus, Insulin-Dependent, 10	skos:exactMatch	doid	DOID:0110749	type 1 diabetes mellitus 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566603	Diabetes Mellitus, Insulin-Dependent, 6	skos:exactMatch	doid	DOID:0110745	type 1 diabetes mellitus 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566605	Orofacial Cleft 10	skos:exactMatch	doid	DOID:0080403	orofacial cleft 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566612	Deafness, Autosomal Dominant 13	skos:exactMatch	doid	DOID:0110545	autosomal dominant nonsyndromic deafness 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566619	Exudative Vitreoretinopathy 4	skos:exactMatch	doid	DOID:0111411	exudative vitreoretinopathy 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566637	Retinitis Pigmentosa 19	skos:exactMatch	doid	DOID:0110354	retinitis pigmentosa 19	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566645	Diabetes Mellitus, Insulin-Dependent, 15	skos:exactMatch	doid	DOID:0110753	type 1 diabetes mellitus 15	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566673	Spinal Muscular Atrophy, Late-Onset, Finkel Type	skos:exactMatch	doid	DOID:0111194	autosomal dominant adult-onset proximal spinal muscular atrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566715	Retinitis Pigmentosa 10	skos:exactMatch	doid	DOID:0110388	retinitis pigmentosa 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566716	Retinitis Pigmentosa 9	skos:exactMatch	doid	DOID:0110387	retinitis pigmentosa 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566718	Retinitis Pigmentosa 20	skos:exactMatch	doid	DOID:0110353	retinitis pigmentosa 20	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566766	Long Qt Syndrome 5	skos:exactMatch	doid	DOID:0110647	long QT syndrome 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566869	Night Blindness, Congenital Stationary, Autosomal Dominant 2	skos:exactMatch	doid	DOID:0110863	congenital stationary night blindness autosomal dominant 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566906	Cakut	skos:exactMatch	doid	DOID:0080205	CAKUT	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C566912	Muscular Dystrophy, Limb-Girdle, Type 2M	skos:exactMatch	doid	DOID:0110296	autosomal recessive limb-girdle muscular dystrophy type 2M	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566925	Arrhythmogenic Right Ventricular Dysplasia, Familial, 12	skos:exactMatch	doid	DOID:0110083	arrhythmogenic right ventricular dysplasia 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566930	Nephronophthisis 7	skos:exactMatch	doid	DOID:0111116	nephronophthisis 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566935	Macular Degeneration, Age-Related, 10	skos:exactMatch	doid	DOID:0110022	age related macular degeneration 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566951	Deafness, Autosomal Recessive 63	skos:exactMatch	doid	DOID:0110515	autosomal recessive nonsyndromic deafness 63	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566963	Atrial Septal Defect 4	skos:exactMatch	doid	DOID:0110109	atrial heart septal defect 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566968	Muscular Dystrophy, Limb-Girdle, Type 2L	skos:exactMatch	doid	DOID:0110284	autosomal recessive limb-girdle muscular dystrophy type 2L	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566982	Asphyxiating Thoracic Dystrophy 2	skos:exactMatch	doid	DOID:0110086	asphyxiating thoracic dystrophy 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566985	Microphthalmia, Syndromic 10	skos:exactMatch	doid	DOID:0111812	syndromic microphthalmia 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566996	Cardiac Arrhythmia, Ankyrin-B-Related	skos:exactMatch	doid	DOID:0111700	ankyrin-B-related cardiac arrhythmia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566998	Alzheimer Disease 15	skos:exactMatch	doid	DOID:0110048	Alzheimer's disease 15	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C566999	Alzheimer Disease 14	skos:exactMatch	doid	DOID:0110047	Alzheimer's disease 14	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567000	Alzheimer Disease 13	skos:exactMatch	doid	DOID:0110046	Alzheimer's disease 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567001	Paroxysmal Nonkinesigenic Dyskinesia 2	skos:exactMatch	doid	DOID:0090047	paroxysmal nonkinesigenic dyskinesia 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567003	Meckel Syndrome, Type 4	skos:exactMatch	doid	DOID:0070118	Meckel syndrome 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567005	Retinitis Pigmentosa 37	skos:exactMatch	doid	DOID:0110399	retinitis pigmentosa 37	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567021	Inflammatory Bowel Disease 10	skos:exactMatch	doid	DOID:0110885	inflammatory bowel disease 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567022	Alzheimer Disease 12	skos:exactMatch	doid	DOID:0110045	Alzheimer's disease 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567026	Episodic Kinesigenic Dyskinesia 2	skos:exactMatch	doid	DOID:0090054	episodic kinesigenic dyskinesia 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567027	Deafness, Autosomal Recessive, 24	skos:exactMatch	doid	DOID:0110482	autosomal recessive nonsyndromic deafness 24	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567032	Phosphoserine Aminotransferase Deficiency	skos:exactMatch	doid	DOID:0050723	PSAT deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567037	Progressive Familial Heart Block, Type Ib	skos:exactMatch	doid	DOID:0111076	progressive familial heart block type IB	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567059	Multiple Endocrine Neoplasia, Type IV	skos:exactMatch	doid	DOID:0080137	multiple endocrine neoplasia type 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567080	Warfarin Sensitivity	skos:exactMatch	doid	DOID:0080666	warfarin sensitivity	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567084	Neuronopathy, Distal Hereditary Motor, Type IIB	skos:exactMatch	doid	DOID:0111207	distal hereditary motor neuropathy type 2B	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567087	Brugada Syndrome 2	skos:exactMatch	doid	DOID:0110219	Brugada syndrome 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567098	Epilepsy, Familial Adult Myoclonic, 3	skos:exactMatch	doid	DOID:0111695	familial adult myoclonic epilepsy 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567115	Combined Cellular And Humoral Immune Defects With Granulomas	skos:exactMatch	doid	DOID:0112253	combined cellular and humoral immune defects with granulomas	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	C567125	Combined Saposin Deficiency	skos:exactMatch	doid	DOID:0111330	combined saposin deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567126	Combined Oxidative Phosphorylation Deficiency 5	skos:exactMatch	doid	DOID:0111473	combined oxidative phosphorylation deficiency 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567140	Bardet-Biedl Syndrome 13	skos:exactMatch	doid	DOID:0110135	Bardet-Biedl syndrome 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567141	Bardet-Biedl Syndrome 14	skos:exactMatch	doid	DOID:0110136	Bardet-Biedl syndrome 14	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567142	Renal-Hepatic-Pancreatic Dysplasia	skos:exactMatch	doid	DOID:0060259	renal-hepatic-pancreatic dysplasia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567154	Inflammatory Bowel Disease 11	skos:exactMatch	doid	DOID:0110894	inflammatory bowel disease 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567159	Spherocytosis, Type 1	skos:exactMatch	doid	DOID:0110916	hereditary spherocytosis type 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567192	Arginine-Glycine Amidinotransferase Deficiency	skos:exactMatch	doid	DOID:0050712	AGAT deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567196	Kahrizi Syndrome	skos:exactMatch	doid	DOID:0050807	Kahrizi syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567197	Leber Congenital Amaurosis 13	skos:exactMatch	doid	DOID:0110330	Leber congenital amaurosis 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567206	Cone-Rod Dystrophy 12	skos:exactMatch	doid	DOID:0111019	cone-rod dystrophy 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567211	Ciliary Dyskinesia, Primary, 12	skos:exactMatch	doid	DOID:0110601	primary ciliary dyskinesia 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567212	Ciliary Dyskinesia, Primary, 11	skos:exactMatch	doid	DOID:0110602	primary ciliary dyskinesia 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567213	Deafness, Autosomal Recessive 1b	skos:exactMatch	doid	DOID:0110476	autosomal recessive nonsyndromic deafness 1B	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567214	Deafness, Autosomal Dominant 2B	skos:exactMatch	doid	DOID:0110559	autosomal dominant nonsyndromic deafness 2B	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567215	Deafness, Autosomal Dominant 3B	skos:exactMatch	doid	DOID:0110565	autosomal dominant nonsyndromic deafness 3B	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567216	Deafness, Autosomal Dominant 59	skos:exactMatch	doid	DOID:0110583	autosomal dominant nonsyndromic deafness 59	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567217	Inflammatory Bowel Disease 26	skos:exactMatch	doid	DOID:0110901	inflammatory bowel disease 26	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567233	Diabetes Mellitus, Insulin-Dependent, 23	skos:exactMatch	doid	DOID:0110760	type 1 diabetes mellitus 23	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567239	Chromosome 6pter-P24 Deletion Syndrome	skos:exactMatch	doid	DOID:0060422	chromosome 6pter-p24 deletion syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567249	Retinitis Pigmentosa 46	skos:exactMatch	doid	DOID:0110409	retinitis pigmentosa 46	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567252	Inflammatory Bowel Disease 24	skos:exactMatch	doid	DOID:0110908	inflammatory bowel disease 24	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567277	Deafness, Autosomal Dominant 3A	skos:exactMatch	doid	DOID:0110564	autosomal dominant nonsyndromic deafness 3A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567284	Diabetes Mellitus, Insulin-Dependent, 22	skos:exactMatch	doid	DOID:0110759	type 1 diabetes mellitus 22	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567285	Diabetes Mellitus, Insulin-Dependent, 21	skos:exactMatch	doid	DOID:0110758	type 1 diabetes mellitus 21	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567286	Diabetes Mellitus, Insulin-Dependent, 20	skos:exactMatch	doid	DOID:0110757	type 1 diabetes mellitus 20	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567287	Ciliary Dyskinesia, Primary, 10	skos:exactMatch	doid	DOID:0110612	primary ciliary dyskinesia 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567289	Chromosome 2p16.1-P15 Deletion Syndrome	skos:exactMatch	doid	DOID:0060415	chromosome 2p16.1-p15 deletion syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567290	Chromosome 1q21.1 Duplication Syndrome	skos:exactMatch	doid	DOID:0060435	chromosome 1q21.1 duplication syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567307	Complement Component 6 Deficiency	skos:exactMatch	doid	DOID:0060299	complement component 6 deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567326	Inflammatory Bowel Disease 23	skos:exactMatch	doid	DOID:0110884	inflammatory bowel disease 23	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567327	Inflammatory Bowel Disease 22	skos:exactMatch	doid	DOID:0110905	inflammatory bowel disease 22	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567338	Inflammatory Bowel Disease 21	skos:exactMatch	doid	DOID:0110906	inflammatory bowel disease 21	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567344	Chromosome 2q31.2 Deletion Syndrome	skos:exactMatch	doid	DOID:0060416	chromosome 2q31.2 deletion syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567350	Chromosome 2q32-Q33 Deletion Syndrome	skos:exactMatch	doid	DOID:0060428	chromosome 2q32-q33 deletion syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567361	Inflammatory Bowel Disease 20	skos:exactMatch	doid	DOID:0110898	inflammatory bowel disease 20	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567371	Generalized Epilepsy With Febrile Seizures Plus, Type 6	skos:exactMatch	doid	DOID:0111300	generalized epilepsy with febrile seizures plus 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567372	Inflammatory Bowel Disease 19	skos:exactMatch	doid	DOID:0110890	inflammatory bowel disease 19	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567377	Inflammatory Bowel Disease 18	skos:exactMatch	doid	DOID:0110888	inflammatory bowel disease 18	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567378	Inflammatory Bowel Disease 17	skos:exactMatch	doid	DOID:0110883	inflammatory bowel disease 17	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567380	Inflammatory Bowel Disease 16	skos:exactMatch	doid	DOID:0110896	inflammatory bowel disease 16	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567381	Inflammatory Bowel Disease 15	skos:exactMatch	doid	DOID:0110897	inflammatory bowel disease 15	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567382	Crouzon Syndrome With Acanthosis Nigricans	skos:exactMatch	doid	DOID:0111161	Crouzon syndrome-acanthosis nigricans syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567383	Inflammatory Bowel Disease 14	skos:exactMatch	doid	DOID:0110895	inflammatory bowel disease 14	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567384	Inflammatory Bowel Disease 13	skos:exactMatch	doid	DOID:0110893	inflammatory bowel disease 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567388	Inflammatory Bowel Disease 12	skos:exactMatch	doid	DOID:0110887	inflammatory bowel disease 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567390	Leukodystrophy, Hypomyelinating, 4	skos:exactMatch	doid	DOID:0060789	hypomyelinating leukodystrophy 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567403	Retinitis Pigmentosa 29	skos:exactMatch	doid	DOID:0110378	retinitis pigmentosa 29	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567407	Cardiomyopathy, Dilated, 1AA	skos:exactMatch	doid	DOID:0110428	dilated cardiomyopathy 1AA	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567410	Orofacial Cleft 11	skos:exactMatch	doid	DOID:0080404	orofacial cleft 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567422	Retinitis Pigmentosa 41	skos:exactMatch	doid	DOID:0110376	retinitis pigmentosa 41	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567429	Amyotrophic Lateral Sclerosis 10	skos:exactMatch	doid	DOID:0060201	amyotrophic lateral sclerosis type 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567433	Spastic Paraplegia 39, Autosomal Recessive	skos:exactMatch	doid	DOID:0110790	hereditary spastic paraplegia 39	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567436	Spinocerebellar Ataxia, Autosomal Recessive 9	skos:exactMatch	doid	DOID:0070241	primary coenzyme Q10 deficiency 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567441	Deafness, Autosomal Dominant 2A	skos:exactMatch	doid	DOID:0110558	autosomal dominant nonsyndromic deafness 2A	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567450	Macular Degeneration, Age-Related, 11	skos:exactMatch	doid	DOID:0110023	age related macular degeneration 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567452	Lymphedema, Hereditary, IB	skos:exactMatch	doid	DOID:0070211	hereditary lymphedema IB	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567466	Mental Retardation And Microcephaly With Pontine And Cerebellar Hypoplasia	skos:exactMatch	doid	DOID:0060807	syndromic X-linked intellectual disability Najm type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567474	Mental Retardation, X-Linked, Syndromic 9	skos:exactMatch	doid	DOID:0060813	syndromic X-linked intellectual disability Shrimpton type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567479	Mental Retardation, X-Linked 94	skos:exactMatch	doid	DOID:0060823	syndromic X-linked intellectual disability 94	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567499	Amyotrophic Lateral Sclerosis 9	skos:exactMatch	doid	DOID:0060200	amyotrophic lateral sclerosis type 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567508	Brugada Syndrome 4	skos:exactMatch	doid	DOID:0110221	Brugada syndrome 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567509	Brugada Syndrome 3	skos:exactMatch	doid	DOID:0110220	Brugada syndrome 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567511	Chromosome 22q11.2 Deletion Syndrome, Distal	skos:exactMatch	doid	DOID:0060413	chromosome 22q11.2 deletion syndrome, distal	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567513	Long Qt Syndrome 11	skos:exactMatch	doid	DOID:0110652	long QT syndrome 11	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567514	Long Qt Syndrome 10	skos:exactMatch	doid	DOID:0110651	long QT syndrome 10	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567515	Long Qt Syndrome 9	skos:exactMatch	doid	DOID:0110650	long QT syndrome 9	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567523	Retinitis Pigmentosa 2	skos:exactMatch	doid	DOID:0110415	retinitis pigmentosa 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567543	Deafness, Autosomal Recessive 77	skos:exactMatch	doid	DOID:0110525	autosomal recessive nonsyndromic deafness 77	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567548	Orofacial Cleft 12	skos:exactMatch	doid	DOID:0080405	orofacial cleft 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567551	Spondyloepimetaphyseal Dysplasia, Pakistani Type	skos:exactMatch	doid	DOID:0050812	spondyloepimetaphyseal dysplasia, Pakistani type	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567554	Hypotrichosis 5	skos:exactMatch	doid	DOID:0110702	hypotrichosis 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567555	Leukocyte Adhesion Deficiency, Type III	skos:exactMatch	doid	DOID:0110912	leukocyte adhesion deficiency 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567556	Brugada Syndrome 5	skos:exactMatch	doid	DOID:0110222	Brugada syndrome 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567559	Inflammatory Bowel Disease 27	skos:exactMatch	doid	DOID:0110902	inflammatory bowel disease 27	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567561	Atrial Septal Defect 5	skos:exactMatch	doid	DOID:0110110	atrial heart septal defect 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567562	Deafness, Autosomal Recessive 71	skos:exactMatch	doid	DOID:0110522	autosomal recessive nonsyndromic deafness 71	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567574	46,Xy Gonadal Dysgenesis, Complete, Sry-Related	skos:exactMatch	doid	DOID:0111778	46,XY sex reversal 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567578	Frontootopalatodigital Osteodysplasia	skos:exactMatch	doid	DOID:0111782	otopalatodigital syndrome spectrum disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567585	Chromosome Xp11.23-P11.22 Duplication Syndrome	skos:exactMatch	doid	DOID:0060461	chromosome Xp11.23-p11.22 duplication syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567636	Leber Congenital Amaurosis 14	skos:exactMatch	doid	DOID:0110188	Leber congenital amaurosis 14	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567646	Miyoshi Muscular Dystrophy 2	skos:exactMatch	doid	DOID:0070200	Miyoshi muscular dystrophy 2	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567648	Exudative Vitreoretinopathy 5	skos:exactMatch	doid	DOID:0111408	exudative vitreoretinopathy 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567651	Deafness, Autosomal Recessive 79	skos:exactMatch	doid	DOID:0110526	autosomal recessive nonsyndromic deafness 79	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567654	Cardiomyopathy, Dilated, 1FF	skos:exactMatch	doid	DOID:0110459	dilated cardiomyopathy 1FF	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567683	Cardiomyopathy, Dilated, 1EE	skos:exactMatch	doid	DOID:0110453	dilated cardiomyopathy 1EE	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567685	Colorectal Cancer, Hereditary Nonpolyposis, Type 8	skos:exactMatch	doid	DOID:0070270	hereditary nonpolyposis colorectal cancer type 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567687	Focal Segmental Glomerulosclerosis 5	skos:exactMatch	doid	DOID:0111130	focal segmental glomerulosclerosis 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567698	Cone-Rod Dystrophy 13	skos:exactMatch	doid	DOID:0111016	cone-rod dystrophy 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567704	CSNB1C	skos:exactMatch	doid	DOID:0110867	congenital stationary night blindness 1C	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567705	Chromosome 17p13.3 Duplication Syndrome	skos:exactMatch	doid	DOID:0060432	chromosome 17p13.3 duplication syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567712	Retinitis Pigmentosa, Concentric	skos:exactMatch	doid	DOID:0110396	retinitis pigmentosa 50	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567713	Ciliary Dyskinesia, Primary, 13	skos:exactMatch	doid	DOID:0110618	primary ciliary dyskinesia 13	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567717	Chromosome 5p13 Duplication Syndrome	skos:exactMatch	doid	DOID:0060460	chromosome 5p13 duplication syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567718	Marie Unna Hereditary Hypotrichosis 1	skos:exactMatch	doid	DOID:0110701	hypotrichosis 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567725	Cardiomyopathy, Dilated, 1DD	skos:exactMatch	doid	DOID:0110447	dilated cardiomyopathy 1DD	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567732	Brugada Syndrome 8	skos:exactMatch	doid	DOID:0110225	Brugada syndrome 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567733	Cardiomyopathy, Dilated, 1CC	skos:exactMatch	doid	DOID:0110424	dilated cardiomyopathy 1CC	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567734	Brugada Syndrome 7	skos:exactMatch	doid	DOID:0110224	Brugada syndrome 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567735	Brugada Syndrome 6	skos:exactMatch	doid	DOID:0110223	Brugada syndrome 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567764	Atrial Septal Defect 6	skos:exactMatch	doid	DOID:0110111	atrial heart septal defect 6	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567766	46, XY Sex Reversal 5	skos:exactMatch	doid	DOID:0111776	46,XY sex reversal 5	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567782	Amyloidosis, Hereditary, Transthyretin-Related	skos:exactMatch	doid	DOID:0050638	transthyretin amyloidosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567786	Prostaglandin-Endoperoxide Synthase 1 Deficiency, Platelet	skos:exactMatch	doid	DOID:0111058	platelet-type bleeding disorder 12	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567809	Glycogen Storage Disease IXC	skos:exactMatch	doid	DOID:0111043	glycogen storage disease IXc	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567818	Diabetes Mellitus, Insulin-Dependent, 24	skos:exactMatch	doid	DOID:0110761	type 1 diabetes mellitus 24	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567827	Generalized Epilepsy With Febrile Seizures Plus, 7	skos:exactMatch	doid	DOID:0111295	generalized epilepsy with febrile seizures plus 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567831	Emery-Dreifuss Muscular Dystrophy 4	skos:exactMatch	doid	DOID:0070249	autosomal dominant Emery-Dreifuss muscular dystrophy 4	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567833	Optic Atrophy 7	skos:exactMatch	doid	DOID:0111437	optic atrophy 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567847	Hypomyelination, Global Cerebral	skos:exactMatch	doid	DOID:0080349	early infantile epileptic encephalopathy 39	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567854	Retinitis Pigmentosa 42	skos:exactMatch	doid	DOID:0110386	retinitis pigmentosa 42	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567855	Cutis Laxa, Autosomal Recessive, Type IIB	skos:exactMatch	doid	DOID:0070137	autosomal recessive cutis laxa type IIB	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567863	Congenital Lipomatous Overgrowth, Vascular Malformations, and Epidermal Nevi	skos:exactMatch	doid	DOID:0080351	CLOVES syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C567877	Cardiomyopathy, Dilated, 1BB	skos:exactMatch	doid	DOID:0110458	dilated cardiomyopathy 1BB	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C570377	Benign Pseudohypertrophic Muscular Dystrophy	skos:exactMatch	doid	DOID:9883	Becker muscular dystrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C571912	Inhalation anthrax	skos:exactMatch	doid	DOID:0050160	inhalation anthrax	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C579880	Actin-Accumulation Myopathy	skos:exactMatch	doid	DOID:0110927	nemaline myopathy 3	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C579932	Autosomal Dominant Nocturnal Frontal Lobe Epilepsy	skos:exactMatch	doid	DOID:0060681	autosomal dominant nocturnal frontal lobe epilepsy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C579991	Chromosome 3-Linked Frontotemporal Dementia	skos:exactMatch	doid	DOID:0111227	chromosome 3-linked frontotemporal dementia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C580102	Fatty Acid Hydroxylase-Associated Neurodegeneration	skos:exactMatch	doid	DOID:0110786	hereditary spastic paraplegia 35	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C580162	Hereditary Sensory and Autonomic Neuropathy Type Ie	skos:exactMatch	doid	DOID:0070158	hereditary sensory neuropathy type 1E	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C580192	Immune Dysregulation, Polyendocrinopathy, Enteropathy, X-Linked Syndrome	skos:exactMatch	doid	DOID:0090110	immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C580241	Larsen Syndrome	skos:exactMatch	doid	DOID:14764	Larsen syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C580334	Nonsyndromic Deafness	skos:exactMatch	doid	DOID:0050563	nonsyndromic deafness	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C580365	Pdgfrb-Associated Chronic Eosinophilic Leukemia	skos:exactMatch	doid	DOID:0111344	myeloproliferative disorder with eosinophilia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C580439	Short Qt Syndrome	skos:exactMatch	doid	DOID:0050793	short QT syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C580457	Spastic Paraplegia Type 7	skos:exactMatch	doid	DOID:0110816	hereditary spastic paraplegia 7	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	C580458	Spastic Paraplegia Type 8	skos:exactMatch	doid	DOID:0110823	hereditary spastic paraplegia 8	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000067208	Shellfish Hypersensitivity	skos:exactMatch	doid	DOID:0060495	shellfish allergy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000071017	Hyperekplexia	skos:exactMatch	doid	DOID:0060695	hyperekplexia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000075122	Smoldering Multiple Myeloma	skos:exactMatch	doid	DOID:9551	smoldering myeloma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000077733	Immunoglobulin G4-Related Disease	skos:exactMatch	doid	DOID:0080356	IgG4-related disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000080345	Familial Exudative Vitreoretinopathies	skos:exactMatch	doid	DOID:0050535	exudative vitreoretinopathy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000080362	Stargardt Disease	skos:exactMatch	doid	DOID:0050817	Stargardt disease	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D000080874	Synucleinopathies	skos:exactMatch	doid	DOID:0050890	synucleinopathy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000151	Acinetobacter Infections	skos:exactMatch	doid	DOID:3091	Acinetobacter infectious disease	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D000275	Adjustment Disorders	skos:exactMatch	doid	DOID:507	adjustment disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000312	Adrenal Hyperplasia, Congenital	skos:exactMatch	doid	DOID:0050811	congenital adrenal hyperplasia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000564	Ameloblastoma	skos:exactMatch	doid	DOID:0050894	ameloblastoma	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D000698	Analgesia	skos:exactMatch	doid	DOID:0060145	pain agnosia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D000793	Angioid Streaks	skos:exactMatch	doid	DOID:979	angioid streaks of choroid	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D001010	Anxiety, Separation	skos:exactMatch	doid	DOID:10685	separation anxiety disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D001117	Arenaviridae Infections	skos:exactMatch	doid	DOID:3944	Arenaviridae infectious disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D001165	Arteriovenous Malformations	skos:exactMatch	doid	DOID:11294	arteriovenous malformation	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D001176	Arthrogryposis	skos:exactMatch	doid	DOID:0050646	distal arthrogryposis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D001327	Autoimmune Diseases	skos:exactMatch	doid	DOID:417	autoimmune hypersensitivity disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D001342	Autonomic Nervous System Diseases	skos:exactMatch	doid	DOID:11465	autonomic nervous system disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D001906	Botulism	skos:exactMatch	doid	DOID:0050352	foodborne botulism	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D002285	Carcinoma, Intraductal, Noninfiltrating	skos:exactMatch	doid	DOID:0060074	ductal carcinoma in situ	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D002294	Carcinoma, Squamous Cell	skos:exactMatch	doid	DOID:3151	skin squamous cell carcinoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D002690	Chlamydia Infections	skos:exactMatch	doid	DOID:11263	chlamydia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D002805	Chondrocalcinosis	skos:exactMatch	doid	DOID:1156	chondrocalcinosis	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D002819	Chorea	skos:exactMatch	doid	DOID:12859	choreatic disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D002925	Ciliary Motility Disorders	skos:exactMatch	doid	DOID:0060340	ciliopathy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D003141	Communicable Diseases	skos:exactMatch	doid	DOID:0050117	disease by infectious agent	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D003865	Depressive Disorder, Major	skos:exactMatch	doid	DOID:1470	major depressive disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D005350	Fibroma	skos:exactMatch	doid	DOID:0050871	fibroma	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D005910	Glioma	skos:exactMatch	doid	DOID:0060108	brain glioma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D006111	Graves Disease	skos:exactMatch	doid	DOID:10719	toxic diffuse goiter	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D006504	Hepatic Veno-Occlusive Disease	skos:exactMatch	doid	DOID:0080177	hepatic veno-occlusive disease	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D006833	Hydrarthrosis	skos:exactMatch	doid	DOID:528	hydrarthrosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D006848	Testicular Hydrocele	skos:exactMatch	doid	DOID:9912	hydrocele	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D006871	Hydrophthalmos	skos:exactMatch	doid	DOID:11211	buphthalmos	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D007008	Hypokalemia	skos:exactMatch	doid	DOID:4500	hypokalemia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D007078	Ileal Neoplasms	skos:exactMatch	doid	DOID:10153	ileum cancer	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D007154	Immune System Diseases	skos:exactMatch	doid	DOID:2914	immune system disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D007172	Erectile Dysfunction	skos:exactMatch	doid	DOID:1875	impotence	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D007645	Keratoderma, Palmoplantar	skos:exactMatch	doid	DOID:3390	palmoplantar keratosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D007865	Leeches	skos:exactMatch	doid	DOID:11079	leech infestation	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D008178	Lupus Erythematosus, Cutaneous	skos:exactMatch	doid	DOID:0050169	cutaneous lupus erythematosus	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D008258	Waldenstrom Macroglobulinemia	skos:exactMatch	doid	DOID:9080	macroglobulinemia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D008527	Medulloblastoma	skos:exactMatch	doid	DOID:0060104	cerebellar medulloblastoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D008588	Meningocele	skos:exactMatch	doid	DOID:1088	meningocele	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D009081	Mucolipidoses	skos:exactMatch	doid	DOID:0080488	mucolipidosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D009110	Munchausen Syndrome	skos:exactMatch	doid	DOID:1766	factitious disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D009135	Muscular Diseases	skos:exactMatch	doid	DOID:0080000	muscular disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D009377	Multiple Endocrine Neoplasia	skos:exactMatch	doid	DOID:3125	multiple endocrine neoplasia	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D009436	Neural Tube Defects	skos:exactMatch	doid	DOID:0080074	neural tube defect	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D009878	Ophthalmia Neonatorum	skos:exactMatch	doid	DOID:9699	ophthalmia neonatorum	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010032	Otitis Externa	skos:exactMatch	doid	DOID:9463	otitis externa	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010040	Otosclerosis	skos:exactMatch	doid	DOID:12185	otosclerosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010048	Ovarian Cysts	skos:exactMatch	doid	DOID:5119	ovarian cyst	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D010144	Paget's Disease, Mammary	skos:exactMatch	doid	DOID:3443	mammary Paget's disease	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D010178	Pancoast Syndrome	skos:exactMatch	doid	DOID:4876	trachea carcinoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010182	Pancreatic Diseases	skos:exactMatch	doid	DOID:26	pancreas disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010272	Parasitic Diseases	skos:exactMatch	doid	DOID:1398	parasitic infectious disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010392	Pemphigus	skos:exactMatch	doid	DOID:0060851	pemphigus vulgaris	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010409	Penile Diseases	skos:exactMatch	doid	DOID:1529	penile disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010523	Peripheral Nervous System Diseases	skos:exactMatch	doid	DOID:574	peripheral nervous system disease	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D010554	Personality Disorders	skos:exactMatch	doid	DOID:1510	personality disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010673	Pheochromocytoma	skos:exactMatch	doid	DOID:0050892	adrenal gland pheochromocytoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010900	Pituitary Diseases	skos:exactMatch	doid	DOID:53	pituitary gland disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D010998	Pleurisy	skos:exactMatch	doid	DOID:10247	pleurisy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D011018	Pneumonia, Pneumococcal	skos:exactMatch	doid	DOID:0040084	Streptococcus pneumonia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D011030	Pneumothorax	skos:exactMatch	doid	DOID:1673	pneumothorax	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D011470	Prostatic Hyperplasia	skos:exactMatch	doid	DOID:11132	prostatic hypertrophy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D011618	Psychotic Disorders	skos:exactMatch	doid	DOID:2468	psychotic disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D011625	Pterygium	skos:exactMatch	doid	DOID:0002116	pterygium	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D011625	Pterygium	skos:exactMatch	doid	DOID:10526	conjunctival pterygium	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D011900	Ranula	skos:exactMatch	doid	DOID:12904	mucocele of salivary gland	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D011906	Rat-Bite Fever	skos:exactMatch	doid	DOID:13238	Haverhill fever	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D012140	Respiratory Tract Diseases	skos:exactMatch	doid	DOID:1579	respiratory system disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D012214	Rheumatic Heart Disease	skos:exactMatch	doid	DOID:0050827	rheumatic heart disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D012373	Rocky Mountain Spotted Fever	skos:exactMatch	doid	DOID:0050052	Rocky Mountain spotted fever	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D012466	Salivary Gland Diseases	skos:exactMatch	doid	DOID:10854	salivary gland disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D012480	Salmonella Infections	skos:exactMatch	doid	DOID:0060859	salmonellosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D012509	Sarcoma	skos:exactMatch	doid	DOID:1115	sarcoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D012625	Sebaceous Gland Diseases	skos:exactMatch	doid	DOID:9098	sebaceous gland disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D012852	Sinusitis	skos:exactMatch	doid	DOID:0050127	sinusitis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D012893	Sleep Wake Disorders	skos:exactMatch	doid	DOID:535	sleep disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D013122	Spinal Diseases	skos:exactMatch	doid	DOID:0060564	spinal disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D013375	Substance Withdrawal Syndrome	skos:exactMatch	doid	DOID:0060001	withdrawal disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D013589	Syphilis, Cardiovascular	skos:exactMatch	doid	DOID:9880	cardiovascular syphilis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D013622	Taeniasis	skos:exactMatch	doid	DOID:0050596	taeniasis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D013896	Thoracic Diseases	skos:exactMatch	doid	DOID:0060118	thoracic disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D014005	Tinea	skos:exactMatch	doid	DOID:8913	dermatophytosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D014006	Tinea Capitis	skos:exactMatch	doid	DOID:4337	tinea capitis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D014103	Torticollis	skos:exactMatch	doid	DOID:0050840	cervical dystonia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D014189	Transsexualism	skos:exactMatch	doid	DOID:10919	transsexualism	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D014392	Tuberculosis, Ocular	skos:exactMatch	doid	DOID:0070344	ocular tuberculosis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D014406	Tularemia	skos:exactMatch	doid	DOID:2123	tularemia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D014570	Urologic Diseases	skos:exactMatch	doid	DOID:18	urinary system disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D014806	Vitamin B 12 Deficiency	skos:exactMatch	doid	DOID:0050731	vitamin B12 deficiency	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D015266	Carcinoma, Merkel Cell	skos:exactMatch	doid	DOID:3965	Merkel cell carcinoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D015467	Leukemia, Neutrophilic, Chronic	skos:exactMatch	doid	DOID:0080187	chronic neutrophilic leukemia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D015477	Leukemia, Myelomonocytic, Chronic	skos:exactMatch	doid	DOID:0080188	chronic myelomonocytic leukemia	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D015840	Oculomotor Nerve Diseases	skos:exactMatch	doid	DOID:562	third cranial nerve disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D016411	Lymphoma, T-Cell, Peripheral	skos:exactMatch	doid	DOID:0050749	peripheral T-cell lymphoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D016553	Purpura, Thrombocytopenic, Idiopathic	skos:exactMatch	doid	DOID:1587	thrombocytopenia due to platelet alloimmunization	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D017085	alpha-Thalassemia	skos:exactMatch	doid	DOID:0110031	hemoglobin H disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D017681	Hypereosinophilic Syndrome	skos:exactMatch	doid	DOID:396	Loeffler endocarditis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D017728	Lymphoma, Large-Cell, Anaplastic	skos:exactMatch	doid	DOID:0050744	anaplastic large cell lymphoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D018192	Lymphangioleiomyomatosis	skos:exactMatch	doid	DOID:3319	lymphangioleiomyomatosis	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D018253	Adenoma, Villous	skos:exactMatch	doid	DOID:0050869	villous adenoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D018275	Carcinoma, Lobular	skos:exactMatch	doid	DOID:0050938	breast lobular carcinoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D018288	Carcinoma, Small Cell	skos:exactMatch	doid	DOID:0050685	small cell carcinoma	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D018293	Cystadenoma, Serous	skos:exactMatch	doid	DOID:5746	ovarian serous cystadenocarcinoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D018442	Lymphoma, B-Cell, Marginal Zone	skos:exactMatch	doid	DOID:0050748	marginal zone B-cell lymphoma	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D018442	Lymphoma, B-Cell, Marginal Zone	skos:exactMatch	doid	DOID:0050909	MALT lymphoma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D018798	Anemia, Iron-Deficiency	skos:exactMatch	doid	DOID:11758	iron deficiency anemia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D020018	Sexual Dysfunctions, Psychological	skos:exactMatch	doid	DOID:10132	psychosexual disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D020176	Tyrosinemias	skos:exactMatch	doid	DOID:9275	tyrosinemia	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D020237	Alexia, Pure	skos:exactMatch	doid	DOID:0060156	visual verbal agnosia	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D020315	Latex Hypersensitivity	skos:exactMatch	doid	DOID:0060532	latex allergy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D020423	Median Neuropathy	skos:exactMatch	doid	DOID:571	median neuropathy	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D020433	Trigeminal Nerve Diseases	skos:exactMatch	doid	DOID:561	trigeminal nerve disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D020435	Glossopharyngeal Nerve Diseases	skos:exactMatch	doid	DOID:3418	glossopharyngeal nerve disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D029597	Romano-Ward Syndrome	skos:exactMatch	doid	DOID:0110644	long QT syndrome 1	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D034801	Mastocytoma	skos:exactMatch	doid	DOID:3664	mast cell neoplasm	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D052878	Urolithiasis	skos:exactMatch	doid	DOID:0080653	urolithiasis	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D053201	Urinary Bladder, Overactive	skos:exactMatch	doid	DOID:12144	low compliance bladder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D053306	Hyper-IgM Immunodeficiency Syndrome	skos:exactMatch	doid	DOID:0080544	hyper IgM syndrome	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D053546	Keratoderma, Palmoplantar, Epidermolytic	skos:exactMatch	doid	DOID:0080223	epidermolytic palmoplantar keratoderma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D055732	Pulmonary Aspergillosis	skos:exactMatch	doid	DOID:0050153	pulmonary aspergilloma	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D055959	Intervertebral Disc Degeneration	skos:exactMatch	doid	DOID:90	degenerative disc disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D057215	Body Dysmorphic Disorders	skos:exactMatch	doid	DOID:0060163	body dysmorphic disorder	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D059905	Endocarditis, Non-Infective	skos:exactMatch	doid	DOID:0060068	marantic endocarditis	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D062685	Steatocystoma Multiplex	skos:exactMatch	doid	DOID:0111556	steatocystoma multiplex	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D064726	Triple Negative Breast Neoplasms	skos:exactMatch	doid	DOID:0060081	triple-receptor negative breast cancer	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D065626	Non-alcoholic Fatty Liver Disease	skos:exactMatch	doid	DOID:0080208	non-alcoholic fatty liver disease	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D065631	Rhinitis, Allergic	skos:exactMatch	doid	DOID:4481	allergic rhinitis	manually_reviewed	orcid:0000-0001-9439-5346
+mesh	D065632	Chikungunya Fever	skos:exactMatch	doid	DOID:0050012	chikungunya	manually_reviewed	orcid:0000-0003-1307-2508
+mesh	D065646	Thyroid Carcinoma, Anaplastic	skos:exactMatch	doid	DOID:0080522	thyroid gland anaplastic carcinoma	manually_reviewed	orcid:0000-0003-1307-2508
